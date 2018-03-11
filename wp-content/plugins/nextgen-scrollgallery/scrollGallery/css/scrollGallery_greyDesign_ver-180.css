@@ -1,0 +1,37 @@
+/*
+CSS Name: Grey-Photobook 
+Description: NextGEN scrollGallery Default Style 
+Author: Benedikt Morschheuser
+Version: 1.1
+*/
+
+/* ----------- Styles extend -------------*/
+.scrollgallery .scrollGalleryHead{
+padding-bottom:6px;
+}
+.scrollgallery .scrollGalleryFoot{
+}
+.scrollgallery .thumbarea{
+		padding-left:11px;
+}
+.scrollgallery .thumbareaContent img{
+    border: 3px solid rgb(184, 177, 151);
+		margin-bottom:7px;
+	float:left;
+}
+.scrollgallery .imagearea{
+	padding-top:4px;
+	padding-bottom:26px;
+}
+.scrollgallery .imageareaContent img{
+    border: 3px solid rgb(184, 177, 151);
+	padding: 0px;
+}
+
+.thumbareaContent img:hover{
+border:3px solid #a8a495 !important;
+}
+
+.imageareaContent img:hover{
+border:3px solid #a8a495 !important;
+}
