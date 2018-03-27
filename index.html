@@ -1,19 +1,28 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BitPixel | 1.8-1.12.2</title>
-<link rel="shortcut icon" href="favicon.png" type="image/png">
-<link rel="stylesheet" type="text/css" href="files/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="files/main16.css">
-<script type="text/javascript" src="files/jquery.js"></script>
-<script type="text/javascript" src="files/bootstrap.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+    <head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
+        <title>BitPixel | Welcome!</title>
+
+        <meta name="description" content="Decimation is one of Minecrafts most realistic Zombie Apocalypse mods, consisting of Weapons,
+		Survival, Clans and More!">
+        <meta name="keywords" content="Decimation,MCDecimation,Mine,Craft,Minecraft,Zombie,Apocalypse,Mod,Zombies,Evil,Scary,Horror,DecimationMC">
+        <meta name="author" content="Scott Robertson">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="favicon.png" type="image/png">
+        <link rel="stylesheet" type="text/css" href="files/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="files/main16.css">
+        <script type="text/javascript" src="files/jquery.js"></script>
+        <script type="text/javascript" src="files/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="style.css">
+		
 <style>
-		 body {
-			 background: url(files/bground1.png);
-			 background-size: cover;
-			 background-position: center;
-		 }
 		 .well {
 	       border: 0px;
         }
@@ -129,95 +138,52 @@
 <li><a href="https://vk.com/page-121789768_53912133" target="_blank">FAQ</a></li>
 <li><a href="https://vk.com/topic-121789768_37264325" target="_blank">Жалобы</a></li>
 </ul>
-<ul class="nav navbar-nav navbar-right">
-<li><a onclick="prompt('Наш IP','play.bpixel.ru')"><span class="wh"><b>IP: play.bpixel.ru </b><span class="btn btn-success btn-xs">Online</span></span></a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="main" style="margin-top: 8.5em;">
-<center>
-<h1 class="wh"><b>МАГАЗИН ПРИВИЛЕГИЙ</b></h1>
-<p></p>
-</center>
-<br>
-<div class="well">
-<div class="ed">
-<div class="alert alert-danger">
-<center><strong>ВНИМАНИЕ!</strong><br> 
-При покупке доната Вы соглашаетесь с <strong> правилами </strong> сервера!
-</center>
-</div>
-<div class="form-group">
-    <label for="exampleInputEmail1" style="color: white;">Введите свой ник на сервере:</label>
-    <input type="email" class="form-control" id="NickName" aria-describedby="emailHelp" placeholder="Введите ник">
-</div>
-<div id="mcdApiContainer1"></div>
-<button class="btn btn-warning" type="submit" name="buy" id="buy" style="width: 100%; outline: none;margin-top: 20px;" onClick="mcClicks()">Купить</button>
-</div>
 </div>
 <br>
-</div>	   
-<div class="foot" style="margin-top: 25px">
-<br><small><b>Мы не являемся коммерческой организацией. Все средства идут на развитие проекта.<br>2017-2018 &#169; <b class="redd">BitPixel</b>. Все права защищены!</b></small>
-</div>
-<script src="files/bootstrap.min.js"></script>
-<script type="text/javascript">
-window.mcdCallback = function(previes){
-	//alert('Look at the console of your browser!');
-	console.log(previes);
-	
-	// Выводим список привилегий
-	var html = '<div class="form-group" style="background: none;"><label for="exampleFormControlSelect1" style="color: white;">Выберите нужную привилегию:</label><select class="form-control" id="exampleFormControlSelect1">';
-	for (var i = 0; i < previes.length; i++){
-		var item = previes[i] ;
+<br>
+<br>
+<br>
+<br>
+<br>
 
-		// На каждую привилегию навешиваем событие, срабатывающее при нажатии мышкой. Внутри <div></div> может быть что угодно - картинка или тег.
-		html += '<option onClick="window.mcdOnClick(this);" previ_id="' + item.previ_id + '">' + item.title + ' - ' + item.price + ' руб.</option>';
-	}
-	html += '</select></div>';
-	
-	document.getElementById('mcdApiContainer1').innerHTML = html;
-	
-	
-}
 
-window.mcdOnClick = function(_this){
-	
-	var previ_id = _this.getAttribute('previ_id');
-	
-	alert('Выбрана привилегия с номером ' + previ_id);
-	
-	if (!confirm('Уверены, что хотите купить?'))
-		return ;
+
+        <h1>
+
+            <img src="website-assets/img/decimation_logo.png" alt="Decimation Logo">
+
+            <p>
+                <p>
+					<a href="download.html"><button id="fancyButton">Начать играть!</button></a>
+					<a href="donate.html"><button>Пожертвования!</button></a>
+				</p>
+				
+                <p>
+				</p>
+            </p>
+
+			<font color="#F45B46">FULL RELEASE OUT NOW!</font>
+			
+        </h1>
+
+        <h2>
 		
-	// Производим перенаправление в магазин. Для этого в функцию отдаём номер привилегии
-	
-	mcdApi.buyPreviNative(previ_id);
-};
-function mcClicks(){
-	if (document.getElementById('NickName').value == "")
-	{
-		alert("Вы не ввели никнейм!");
-	}
-	else{
-		mcdApi.setNickname(document.getElementById('NickName').value); 
-		mcdApi.buyPreviNative($('#exampleFormControlSelect1 option:selected').attr('previ_id'));
-	}
-};
-</script>
-<script type="text/javascript" src="https://mcdonate.ru/api/mcd_script.js?server_id=164896&callback=mcdCallback"></script>
-<script type="text/javascript">
-var __JSPARSE = JSON.parse(JSON.stringify(mcdApi.srv));
-document.getElementById("online").innerHTML = __JSPARSE.curPlayers;
-</script>
-<audio src="files/awf.mp3" autoplay="autoplay" onloadstart="this.volume=0.1" loop></audio>
-<script type="text/javascript" src="//vk.com/js/api/openapi.js?152"></script>
+		
 
-<!-- VK Widget -->
-<div id="vk_community_messages"></div>
-<script type="text/javascript">
-VK.Widgets.CommunityMessages("vk_community_messages", 121789768, {expanded: "1",disableNewMessagesSound: "1",tooltipButtonText: "Есть вопрос?"});
-</script>
-</body>
+            Не разобрался как начать играть? Быстрая <a href="index.html">помощь</a>!
+			
+		</h2>
+
+    </body>
+
+	<footer>
+	
+	<center>
+<div class="foot" style="margin-top: 25px">
+<small>Мы не являемся коммерческой организацией. Все средства идут на развитие проекта.<br>2017-2018 &#169; <b class="redd">BitPixel</b>. Все права защищены!</small>
+</div>
+	</center>
+	
+	</footer>
+
 </html>

@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html id="XF" lang="en-US" dir="LTR"
+	data-app="public"
+	data-template="latest_activity"
+	data-container-key=""
+	data-content-key=""
+	data-logged-in="false"
+	data-cookie-prefix="xf_"
+	class="has-no-js template-latest_activity"
+	 data-run-jobs="">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+	
+	
+
+	<title>Latest activity | Decimation</title>
+
+	
+		<meta name="robots" content="noindex" />
+	
+
+	
+		
+	
+	
+	<meta property="og:site_name" content="Decimation" />
+
+
+	
+	
+		
+	
+	
+	<meta property="og:type" content="website" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:title" content="Latest activity" />
+		<meta property="twitter:title" content="Latest activity" />
+	
+
+
+	
+	
+	
+		
+	
+	
+	<meta property="og:url" content="http://www.mcdecimation.net/forums/whats-new/latest-activity" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:card" content="summary" />
+	
+
+
+	
+
+	
+		<meta name="theme-color" content="rgb(37, 37, 37)" />
+	
+
+	
+	
+	
+
+	
+		
+		<link rel="preload" href="../styles/fonts/fa/fontawesome-webfont.woff2@v=4.7.0" as="font" type="font/woff2" crossorigin="anonymous" />
+	
+
+	<link rel="stylesheet" href="../css.php@css=public%253Anormalize.css%252Cpublic%253Acore.less%252Cpublic%253Aapp.less%252Cpublic%253Afont_awesome.css&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=517097f86abe2fc17bdafbfb8e9e700128ef3187" />
+
+	
+	<link rel="stylesheet" href="../css.php@css=public%253Aextra.less&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=c5fd83f77ecde780c611eee82175e43c1e9ac00c" />
+
+	
+		<script src="../js/xf/preamble-compiled.js@_v=e6e8a019"></script>
+	
+
+
+	
+	
+		<link rel="apple-touch-icon" href="../styles/pixelgoose/metro/blue/xenforo/logo.png" />
+	
+	
+</head>
+<body data-template="latest_activity">
+
+<div class="p-pageWrapper" id="top">
+
+
+
+<header class="p-header" id="header">
+	<div class="p-header-inner">
+		<div class="p-header-content">
+
+			<div class="p-header-logo p-header-logo--image">
+				<a href="../../index.html">
+					<img src="../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+						 />
+				</a>
+			</div>
+
+			
+		</div>
+	</div>
+</header>
+
+
+
+
+
+	<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+		
+	<nav class="p-nav">
+		<div class="p-nav-inner">
+			<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+				<i aria-hidden="true"></i>
+				<span class="p-nav-menuText">Menu</span>
+			</a>
+
+			<div class="p-nav-smallLogo">
+				<a href="../../index.html">
+					<img src="../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+					 />
+				</a>
+			</div>
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="1"
+		data-nav-id="home">Home</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="forums">Forums</a>
+
+
+			<a data-xf-key="2"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">Forums</h4>-->
+					
+						
+	
+	
+	<a href="posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="newPosts">New posts</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl is-selected" data-has-children="true">
+		
+
+			
+	
+	<a href="index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="whatsNew">What's new</a>
+
+
+			<a data-xf-key="3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">What's new</h4>-->
+					
+						
+	
+	
+	<a href="posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewPosts">New posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="latest-activity"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="latestActivity">Latest activity</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+
+			<div class="p-nav-opposite">
+				
+				<div class="p-navgroup p-account p-navgroup--guest">
+					
+							<a href="http://mcdecimation.buycraft.net/category/1132413"
+								class="p-navgroup-link">
+								<i aria-hidden="true"></i>
+								<span class="p-navgroup-linkText">⭐ Get a Cape!</span>
+							</a>
+					
+					
+						<a href="../login/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--logIn" rel="nofollow" data-xf-click="overlay">
+							<span class="p-navgroup-linkText">Log in</span>
+						</a>
+						
+							<a href="../register/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--register" rel="nofollow" data-xf-click="overlay">
+								<span class="p-navgroup-linkText">Register</span>
+							</a>
+						
+					
+				</div>
+
+				<div class="p-navgroup p-discovery">
+					<a href="index.html"
+						class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--whatsnew"
+						title="What&#039;s new">
+						<i aria-hidden="true"></i>
+						<span class="p-navgroup-linkText">What's new</span>
+					</a>
+
+					
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+	
+	
+		<div class="p-sectionLinks">
+			<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+				<div class="hScroller-scroll">
+					<ul class="p-sectionLinks-list">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="posts/index.html"
+		class="p-navEl-link "
+		 rel="nofollow"
+		data-xf-key="alt+1"
+		data-nav-id="whatsNewPosts">New posts</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="latest-activity"
+		class="p-navEl-link "
+		 rel="nofollow"
+		data-xf-key="alt+2"
+		data-nav-id="latestActivity">Latest activity</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+	<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+	<div class="offCanvasMenu-content">
+		<div class="offCanvasMenu-header">
+			Menu
+			<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Close"></a>
+		</div>
+		
+			<div class="p-offCanvasRegisterLink">
+				<div class="offCanvasMenu-linkHolder">
+					<a href="../login/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+						Log in
+					</a>
+				</div>
+				<hr class="offCanvasMenu-separator" />
+				
+					<div class="offCanvasMenu-linkHolder">
+						<a href="../register/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+							Register
+						</a>
+					</div>
+					<hr class="offCanvasMenu-separator" />
+				
+			</div>
+		
+		<div class="js-offCanvasNavTarget"></div>
+	</div>
+</div>
+
+<div class="p-body">
+	<div class="p-body-inner">
+		<!--XF:EXTRA_OUTPUT-->
+
+		
+
+		
+
+		
+		
+	
+		<ul class="p-breadcrumbs "
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="index.html" itemprop="item">
+			<span itemprop="name">What's new</span>
+		</a>
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+
+		
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.</div></noscript>
+
+		
+	<!--[if lt IE 9]><div class="blockMessage blockMessage&#45;&#45;important blockMessage&#45;&#45;iconic">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</div><![endif]-->
+
+
+		
+			<div class="p-body-header">
+			
+				
+					<div class="p-title ">
+					
+						
+							<h1 class="p-title-value">Latest activity</h1>
+						
+						
+					
+					</div>
+				
+
+				
+			
+			</div>
+		
+
+		<div class="p-body-main  ">
+			
+
+			<div class="p-body-content">
+				
+				<div class="p-body-pageContent">
+	
+
+
+
+	<div class="tabs tabs--standalone">
+		<div class="hScroller" data-xf-init="h-scroller">
+			<span class="hScroller-scroll">
+				
+	<a class="tabs-tab " href="index.html">What's new</a>
+	
+	<a class="tabs-tab " href="posts/index.html" rel="nofollow">New posts</a>
+	
+	
+	
+	
+		
+
+		<a class="tabs-tab is-active" href="latest-activity" rel="nofollow">Latest activity</a>
+	
+	
+
+			</span>
+		</div>
+	</div>
+
+
+
+
+
+
+<div class="block">
+	<div class="block-container">
+		
+			<ul class="block-body js-newsFeedTarget">
+				
+					
+	<li class="block-row block-row--separated " data-author="iMkp - Matthew">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="avatar avatar--s" data-user-id="263" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/263.jpg@1521236948" srcset="../data/avatars/m/0/263.jpg@1521236948 2x" alt="iMkp - Matthew" class="avatar-u263-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a> replied to the thread <a href="../posts/764/index.html">Furniture, Basing, Crafting and Farming. More suggestions for Decimation.</a>.
+</div>
+
+<div class="contentRow-snippet">I love this idea!
+
+@ScottehBoeh</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-27T06:13:13+0100" data-time="1522127593" data-date-string="Mar 27, 2018" data-time-string="6:13 AM" title="Mar 27, 2018 at 6:13 AM">Today at 6:13 AM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Electricdarkness">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/electricdarkness.1763/" class="avatar avatar--s" data-user-id="1763" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/1/1763.jpg@1521859770"  alt="Electricdarkness" class="avatar-u1763-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/electricdarkness.1763/" class="username " dir="auto" data-user-id="1763" data-xf-init="member-tooltip">Electricdarkness</a> posted the thread <a href="../threads/furniture-basing-crafting-and-farming-more-suggestions-for-decimation.309/post-760">Furniture, Basing, Crafting and Farming. More suggestions for Decimation.</a> in <a href="../forums/general-discussion.9/index.html">General Discussion</a>.
+</div>
+
+<div class="contentRow-snippet">Furniture
+There should be lootable furniture in the house like kitchen cabinets, refrigerators and drawers. These would have things like...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-27T05:49:35+0100" data-time="1522126175" data-date-string="Mar 27, 2018" data-time-string="5:49 AM" title="Mar 27, 2018 at 5:49 AM">Today at 5:49 AM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Lewux">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/lewux.2568/" class="avatar avatar--s" data-user-id="2568" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/2/2568.jpg@1522109528" srcset="../data/avatars/m/2/2568.jpg@1522109528 2x" alt="Lewux" class="avatar-u2568-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/lewux.2568/" class="username " dir="auto" data-user-id="2568" data-xf-init="member-tooltip">Lewux</a> posted the thread <a href="../threads/lag-problems.306/latest">Lag problems</a> in <a href="../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a>.
+</div>
+
+<div class="contentRow-snippet">I wanted to be able to use antilag mods for my game. When I go into some server, he hangs up pretty well, but he gives some very abrupt...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-27T01:18:33+0100" data-time="1522109913" data-date-string="Mar 27, 2018" data-time-string="1:18 AM" title="Mar 27, 2018 at 1:18 AM">Today at 1:18 AM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Jop890">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/jop890.2557/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2557" data-xf-init="member-tooltip" style="background-color: #5cd699; color: #1a6640">
+			<span class="avatar-u2557-s">J</span> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/jop890.2557/" class="username " dir="auto" data-user-id="2557" data-xf-init="member-tooltip">Jop890</a> posted the thread <a href="../threads/what.305/latest">what?!?!!?</a> in <a href="../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a>.
+</div>
+
+<div class="contentRow-snippet">i was going to play new york city 1 but  i have 2 mods weird i don&#039;t have more mods in the mods folder! mods in:Decimation Decimation...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T21:13:09+0100" data-time="1522095189" data-date-string="Mar 26, 2018" data-time-string="9:13 PM" title="Mar 26, 2018 at 9:13 PM">Yesterday at 9:13 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="ScottehBoeh">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/1.jpg@1521983219" srcset="../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a> replied to the thread <a href="../posts/755/index.html">Got killed in Safezone</a>.
+</div>
+
+<div class="contentRow-snippet">For some reason, I doubt this. It&#039;s not possible to die in safe zone (at all). The hurt/attack events are both cancelled out when in...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T19:21:35+0100" data-time="1522088495" data-date-string="Mar 26, 2018" data-time-string="7:21 PM" title="Mar 26, 2018 at 7:21 PM">Yesterday at 7:21 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="iMkp - Matthew">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="avatar avatar--s" data-user-id="263" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/263.jpg@1521236948" srcset="../data/avatars/m/0/263.jpg@1521236948 2x" alt="iMkp - Matthew" class="avatar-u263-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a> replied to the thread <a href="../posts/754/index.html">Got killed in Safezone</a>.
+</div>
+
+<div class="contentRow-snippet">If they killed you while you in spawn, you must&#039;ve had PvP Timer on, nothing we can do about your items.</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T19:21:03+0100" data-time="1522088463" data-date-string="Mar 26, 2018" data-time-string="7:21 PM" title="Mar 26, 2018 at 7:21 PM">Yesterday at 7:21 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="ScottehBoeh">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/1.jpg@1521983219" srcset="../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			
+	<div class="contentRow-title">
+		
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a> liked <a href="../posts/752/index.html">Electricdarkness's post</a> in the thread <a href="../posts/752/index.html">HELP! getting rid of the xray mod that downloaded its self into the deicmation pack i downloaded?</a>.
+		
+	</div>
+
+	<div class="contentRow-snippet">ahahahahahahahahaha best post i&#039;ve seen in 2018</div>
+
+	<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T19:07:46+0100" data-time="1522087666" data-date-string="Mar 26, 2018" data-time-string="7:07 PM" title="Mar 26, 2018 at 7:07 PM">Yesterday at 7:07 PM</time></div>
+
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Facemacker75">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/facemacker75.2566/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2566" data-xf-init="member-tooltip" style="background-color: #6633cc; color: #d1c2f0">
+			<span class="avatar-u2566-s">F</span> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/facemacker75.2566/" class="username " dir="auto" data-user-id="2566" data-xf-init="member-tooltip">Facemacker75</a> posted the thread <a href="../threads/got-killed-in-safezone.304/post-754">Got killed in Safezone</a> in <a href="../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a>.
+</div>
+
+<div class="contentRow-snippet">I shoot on somebody 1 Meteraway from the safezone line. After that 2 other guys shoot on me    i run back to the Safe zone but they...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T17:37:32+0100" data-time="1522082252" data-date-string="Mar 26, 2018" data-time-string="5:37 PM" title="Mar 26, 2018 at 5:37 PM">Yesterday at 5:37 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Electricdarkness">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/electricdarkness.1763/" class="avatar avatar--s" data-user-id="1763" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/1/1763.jpg@1521859770"  alt="Electricdarkness" class="avatar-u1763-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/electricdarkness.1763/" class="username " dir="auto" data-user-id="1763" data-xf-init="member-tooltip">Electricdarkness</a> replied to the thread <a href="../posts/752/index.html">HELP! getting rid of the xray mod that downloaded its self into the deicmation pack i downloaded?</a>.
+</div>
+
+<div class="contentRow-snippet">ahahahahahahahahaha best post i&#039;ve seen in 2018</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T16:44:13+0100" data-time="1522079053" data-date-string="Mar 26, 2018" data-time-string="4:44 PM" title="Mar 26, 2018 at 4:44 PM">Yesterday at 4:44 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="iMkp - Matthew">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="avatar avatar--s" data-user-id="263" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/263.jpg@1521236948" srcset="../data/avatars/m/0/263.jpg@1521236948 2x" alt="iMkp - Matthew" class="avatar-u263-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a> replied to the thread <a href="../posts/751/index.html">new</a>.
+</div>
+
+<div class="contentRow-snippet">Hello @Duy Hưng, thanks for the suggestion, I&#039;d love to see a Roleplay Type server, would be pretty cool! :D</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-26T08:11:59+0100" data-time="1522048319" data-date-string="Mar 26, 2018" data-time-string="8:11 AM" title="Mar 26, 2018 at 8:11 AM">Yesterday at 8:11 AM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="André">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/andre.19/" class="avatar avatar--s" data-user-id="19" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/19.jpg@1493826831" srcset="../data/avatars/m/0/19.jpg@1493826831 2x" alt="André" class="avatar-u19-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/andre.19/" class="username " dir="auto" data-user-id="19" data-xf-init="member-tooltip"><span class="username--staff">André</span></a> replied to the thread <a href="../posts/749/index.html">Recommendation for Decimation&#039;s future updates.</a>.
+</div>
+
+<div class="contentRow-snippet">Awesome suggestions!</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-25T17:47:56+0100" data-time="1521996476" data-date-string="Mar 25, 2018" data-time-string="5:47 PM" title="Mar 25, 2018 at 5:47 PM">Sunday at 5:47 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="ScottehBoeh">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/1.jpg@1521983219" srcset="../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a> posted the thread <a href="../threads/how-to-fix-i-am-getting-kicked-by-anticheat.302/post-748">How to Fix: I am getting Kicked by Anticheat</a> in <a href="../forums/fixes-tutorials.11/index.html">Fixes/Tutorials</a>.
+</div>
+
+<div class="contentRow-snippet">How to Fix: I am getting Kicked by Anticheat
+This issue occurs when attempting to join an Official Server, or a community server that...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-25T13:55:17+0100" data-time="1521982517" data-date-string="Mar 25, 2018" data-time-string="1:55 PM" title="Mar 25, 2018 at 1:55 PM">Sunday at 1:55 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="ScottehBoeh">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/1.jpg@1521983219" srcset="../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a> posted the thread <a href="../threads/how-to-fix-game-not-starting-properly-after-i-update.301/post-747">How to Fix: Game not Starting Properly after I Update!</a> in <a href="../forums/fixes-tutorials.11/index.html">Fixes/Tutorials</a>.
+</div>
+
+<div class="contentRow-snippet">How to Fix: Game not Starting Properly after Update:
+This is an issue that occurs after updating your game and restarting it. This can...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-25T13:47:32+0100" data-time="1521982052" data-date-string="Mar 25, 2018" data-time-string="1:47 PM" title="Mar 25, 2018 at 1:47 PM">Sunday at 1:47 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="ScottehBoeh">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../data/avatars/s/0/1.jpg@1521983219" srcset="../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a> posted the thread <a href="../threads/permission-nodes-all-command-permission-nodes.300/post-746">Permission Nodes: All Command Permission Nodes</a> in <a href="../forums/fixes-tutorials.11/index.html">Fixes/Tutorials</a>.
+</div>
+
+<div class="contentRow-snippet">Permission Nodes
+
+The following list contains all required Decimation permission nodes for those who are running servers with...</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-25T13:39:55+0100" data-time="1521981595" data-date-string="Mar 25, 2018" data-time-string="1:39 PM" title="Mar 25, 2018 at 1:39 PM">Sunday at 1:39 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+					
+	<li class="block-row block-row--separated " data-author="Duy Hưng">
+		
+	<div class="contentRow">
+		<span class="contentRow-figure">
+			<a href="http://www.mcdecimation.net/forums/members/duy-hung.2519/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2519" data-xf-init="member-tooltip" style="background-color: #85a329; color: #111405">
+			<span class="avatar-u2519-s">D</span> 
+		</a>
+		</span>
+		<div class="contentRow-main">
+			<div class="contentRow-title">
+	<a href="http://www.mcdecimation.net/forums/members/duy-hung.2519/" class="username " dir="auto" data-user-id="2519" data-xf-init="member-tooltip">Duy Hưng</a> posted the thread <a href="../threads/new.299/post-751">new</a> in <a href="../forums/suggestions-and-ideas.12/index.html">Suggestions and Ideas</a>.
+</div>
+
+<div class="contentRow-snippet">Make a map about survors can not kill each other but they will kill and againts zombie from</div>
+
+
+<div class="contentRow-minor"><time  class="u-dt" dir="auto" datetime="2018-03-25T12:13:17+0100" data-time="1521976397" data-date-string="Mar 25, 2018" data-time-string="12:13 PM" title="Mar 25, 2018 at 12:13 PM">Sunday at 12:13 PM</time></div>
+		</div>
+	</div>
+
+	</li>
+
+				
+			</ul>
+			<div class="block-footer js-newsFeedLoadMore">
+				<span class="block-footer-controls"><a href="latest-activity@before_id=1238" class="button" rel="nofollow" data-xf-click="inserter" data-append=".js-newsFeedTarget" data-replace=".js-newsFeedLoadMore"><span class="button-text">
+					Show older items
+				</span></a></span>
+			</div>
+		
+	</div>
+</div>
+
+</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+		
+	
+		<ul class="p-breadcrumbs p-breadcrumbs--bottom"
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="index.html" itemprop="item">
+			<span itemprop="name">What's new</span>
+		</a>
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+	</div>
+</div>
+
+<footer class="p-footer" id="footer">
+	<div class="p-footer-inner">
+
+		<div class="p-footer-row">
+			
+			<div class="p-footer-row-opposite">
+				<ul class="p-footer-linkList">
+					
+						
+							<li><a href="../misc/contact" data-xf-click="overlay">Contact us</a></li>
+						
+					
+
+					
+						<li><a href="../../download.html">Download the Mod</a></li>
+					
+
+					
+						<li><a href="http://discord.gg/Decimation">Discord</a></li>
+					
+
+					
+						<li><a href="http://mcdecimation.buycraft.net/category/1132413">Get a Cape!</a></li>
+					
+
+					
+						<li><a href="../help/terms/index.html">Terms and rules</a></li>
+					
+
+					
+
+					
+						<li><a href="../help/index.html">Help</a></li>
+					
+
+					
+						<li><a href="../../index.html">Home</a></li>
+					
+
+					<li><a href="../forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa fa-rss"></i></span></a></li>
+				</ul>
+			</div>
+		</div>
+
+		
+			<div class="p-footer-copyright">
+			
+				<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank">Forum software by XenForo&trade; <span class="copyright">&copy; 2010-2018 XenForo Ltd.</span></a>
+				
+<div class="discord-copyright">
+	<a href="https://xenforo.com/community/resources/6058/"
+		target="_blank">Discord Integration</a> &copy; Jason Axelrod of
+	<a href="https://8wayrun.com/" target="_blank">8WAYRUN</a>
+</div>
+			
+			</div>
+		
+
+		
+	</div>
+</footer>
+
+</div> <!-- closing p-pageWrapper -->
+
+<div class="u-bottomFixer js-bottomFixTarget">
+	
+</div>
+
+
+	<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+		<a href="latest-activity#top" class="button--scroll button" data-xf-click="scroll-to"><span class="button-text"><i class="fa fa-arrow-up"></i></span></a>
+		
+	</div>
+
+
+
+	<script src="../js/vendor/jquery/jquery-3.2.1.min.js@_v=e6e8a019"></script>
+	<script src="../js/vendor/vendor-compiled.js@_v=e6e8a019"></script>
+	<script src="../js/xf/core-compiled.js@_v=e6e8a019"></script>
+	
+	<script>
+		jQuery.extend(true, XF.config, {
+			userId: 0,
+			url: {
+				fullBase: 'http://www.mcdecimation.net/forums/',
+				basePath: '/forums/',
+				css: '/forums/css.php?css=__SENTINEL__&s=2&l=1&d=1521142307',
+				keepAlive: '/forums/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_'
+			},
+			csrf: '1522142597,ac6fb09002bd87833a1a5094314199e9',
+			js: {},
+			css: {"public:extra.less":true},
+			time: {
+				now: 1522142597,
+				today: 1522105200,
+				todayDow: 2
+			},
+			borderSizeFeature: '3px',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 67108864,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unread: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {}
+		});
+
+		jQuery.extend(XF.phrases, {
+			date_x_at_time_y: "{date} at {time}",
+			day_x_at_time_y:  "{day} at {time}",
+			yesterday_at_x:   "Yesterday at {time}",
+			x_minutes_ago:    "{minutes} minutes ago",
+			one_minute_ago:   "1 minute ago",
+			a_moment_ago:     "A moment ago",
+			today_at_x:       "Today at {time}",
+			in_a_moment:      "In a moment",
+			in_a_minute:      "In a minute",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Later today at {time}",
+			tomorrow_at_x:    "Tomorrow at {time}",
+
+			day0: "Sunday",
+			day1: "Monday",
+			day2: "Tuesday",
+			day3: "Wednesday",
+			day4: "Thursday",
+			day5: "Friday",
+			day6: "Saturday",
+
+			dayShort0: "Sun",
+			dayShort1: "Mon",
+			dayShort2: "Tue",
+			dayShort3: "Wed",
+			dayShort4: "Thu",
+			dayShort5: "Fri",
+			dayShort6: "Sat",
+
+			month0: "January",
+			month1: "February",
+			month2: "March",
+			month3: "April",
+			month4: "May",
+			month5: "June",
+			month6: "July",
+			month7: "August",
+			month8: "September",
+			month9: "October",
+			month10: "November",
+			month11: "December",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "Oops! We ran into some problems.",
+			oops_we_ran_into_some_problems_more_details_console: "Oops! We ran into some problems. Please try again later. More error details may be in the browser console.",
+			file_too_large_to_upload: "The file is too large to be uploaded.",
+			files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+			close: "Close",
+
+			showing_x_of_y_items: "Showing {count} of {total} items",
+			showing_all_items: "Showing all items",
+			no_items_to_display: "No items to display"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

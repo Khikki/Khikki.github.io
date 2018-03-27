@@ -1,0 +1,1351 @@
+<!DOCTYPE html>
+<html id="XF" lang="en-US" dir="LTR"
+	data-app="public"
+	data-template="thread_view"
+	data-container-key="node-8"
+	data-content-key="thread-214"
+	data-logged-in="false"
+	data-cookie-prefix="xf_"
+	class="has-no-js template-thread_view"
+	 data-run-jobs="">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+	
+	
+
+	<title>Decimation - All Alpha Updates | Decimation</title>
+
+	
+		
+		<meta name="description" content="Version 0.43a
+- Added IMI Desert Eagle
+- Fixed 357 Ammunition Bullet Model
+- Fixed MOTD Server Screen
+----------------------------------------
+Version 0.42a..." />
+		<meta property="og:description" content="Version 0.43a
+- Added IMI Desert Eagle
+- Fixed 357 Ammunition Bullet Model
+- Fixed MOTD Server Screen
+----------------------------------------
+Version 0.42a
+- Added Uzi
+- Added Spas12
+- Added Server MOTD&#039;s
+----------------------------------------
+Version 0.41a_fix
+- Fixed visual issues (seeing..." />
+		<meta property="twitter:description" content="Version 0.43a
+- Added IMI Desert Eagle
+- Fixed 357 Ammunition Bullet Model
+- Fixed MOTD Server Screen
+----------------------------------------
+Version 0.42a
+- Added Uzi
+- Added Spas12
+- Added..." />
+	
+	
+		<meta property="og:url" content="http://www.mcdecimation.net/forums/threads/decimation-all-alpha-updates.214/" />
+	
+		<link rel="canonical" href="post-547" />
+	
+
+	
+		
+	
+	
+	<meta property="og:site_name" content="Decimation" />
+
+
+	
+	
+		
+	
+	
+	<meta property="og:type" content="website" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:title" content="Decimation - All Alpha Updates" />
+		<meta property="twitter:title" content="Decimation - All Alpha Updates" />
+	
+
+
+	
+	
+	
+	
+		
+	
+	
+	
+		<meta property="og:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:card" content="summary" />
+	
+
+
+	
+
+	
+		<meta name="theme-color" content="rgb(37, 37, 37)" />
+	
+
+	
+	
+	
+
+	
+		
+		<link rel="preload" href="../../styles/fonts/fa/fontawesome-webfont.woff2@v=4.7.0" as="font" type="font/woff2" crossorigin="anonymous" />
+	
+
+	<link rel="stylesheet" href="../../css.php@css=public%253Anormalize.css%252Cpublic%253Acore.less%252Cpublic%253Aapp.less%252Cpublic%253Afont_awesome.css&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=517097f86abe2fc17bdafbfb8e9e700128ef3187" />
+
+	
+	<link rel="stylesheet" href="../../css.php@css=public%253Amessage.less%252Cpublic%253Ashare_controls.less%252Cpublic%253Aextra.less&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=c76e50b435bea8801289dd1c01c45bb6d31d9b07" />
+
+	
+		<script src="../../js/xf/preamble-compiled.js@_v=e6e8a019"></script>
+	
+
+
+	
+	
+		<link rel="apple-touch-icon" href="../../styles/pixelgoose/metro/blue/xenforo/logo.png" />
+	
+	
+</head>
+<body data-template="thread_view">
+
+<div class="p-pageWrapper" id="top">
+
+
+
+<header class="p-header" id="header">
+	<div class="p-header-inner">
+		<div class="p-header-content">
+
+			<div class="p-header-logo p-header-logo--image">
+				<a href="../../../index.html">
+					<img src="../../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+						 />
+				</a>
+			</div>
+
+			
+		</div>
+	</div>
+</header>
+
+
+
+
+
+	<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+		
+	<nav class="p-nav">
+		<div class="p-nav-inner">
+			<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+				<i aria-hidden="true"></i>
+				<span class="p-nav-menuText">Menu</span>
+			</a>
+
+			<div class="p-nav-smallLogo">
+				<a href="../../../index.html">
+					<img src="../../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+					 />
+				</a>
+			</div>
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../../index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="1"
+		data-nav-id="home">Home</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl is-selected" data-has-children="true">
+		
+
+			
+	
+	<a href="../../index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="forums">Forums</a>
+
+
+			<a data-xf-key="2"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">Forums</h4>-->
+					
+						
+	
+	
+	<a href="../../whats-new/posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="newPosts">New posts</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../../whats-new/index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="whatsNew">What's new</a>
+
+
+			<a data-xf-key="3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">What's new</h4>-->
+					
+						
+	
+	
+	<a href="../../whats-new/posts/index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewPosts">New posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../whats-new/latest-activity"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="latestActivity">Latest activity</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+
+			<div class="p-nav-opposite">
+				
+				<div class="p-navgroup p-account p-navgroup--guest">
+					
+							<a href="http://mcdecimation.buycraft.net/category/1132413"
+								class="p-navgroup-link">
+								<i aria-hidden="true"></i>
+								<span class="p-navgroup-linkText">⭐ Get a Cape!</span>
+							</a>
+					
+					
+						<a href="../../login/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--logIn" rel="nofollow" data-xf-click="overlay">
+							<span class="p-navgroup-linkText">Log in</span>
+						</a>
+						
+							<a href="../../register/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--register" rel="nofollow" data-xf-click="overlay">
+								<span class="p-navgroup-linkText">Register</span>
+							</a>
+						
+					
+				</div>
+
+				<div class="p-navgroup p-discovery">
+					<a href="../../whats-new/index.html"
+						class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--whatsnew"
+						title="What&#039;s new">
+						<i aria-hidden="true"></i>
+						<span class="p-navgroup-linkText">What's new</span>
+					</a>
+
+					
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+	
+	
+		<div class="p-sectionLinks">
+			<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+				<div class="hScroller-scroll">
+					<ul class="p-sectionLinks-list">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../whats-new/posts/index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+1"
+		data-nav-id="newPosts">New posts</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+	<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+	<div class="offCanvasMenu-content">
+		<div class="offCanvasMenu-header">
+			Menu
+			<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Close"></a>
+		</div>
+		
+			<div class="p-offCanvasRegisterLink">
+				<div class="offCanvasMenu-linkHolder">
+					<a href="../../login/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+						Log in
+					</a>
+				</div>
+				<hr class="offCanvasMenu-separator" />
+				
+					<div class="offCanvasMenu-linkHolder">
+						<a href="../../register/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+							Register
+						</a>
+					</div>
+					<hr class="offCanvasMenu-separator" />
+				
+			</div>
+		
+		<div class="js-offCanvasNavTarget"></div>
+	</div>
+</div>
+
+<div class="p-body">
+	<div class="p-body-inner">
+		<!--XF:EXTRA_OUTPUT-->
+
+		
+
+		
+
+		
+		
+	
+		<ul class="p-breadcrumbs "
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+	</li>
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html#announcements-updates.6" itemprop="item">
+			<span itemprop="name">Announcements/Updates</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../forums/mod-updates.8/index.html" itemprop="item">
+			<span itemprop="name">Mod Updates</span>
+		</a>
+	</li>
+
+			
+
+		
+		</ul>
+	
+
+		
+
+		
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.</div></noscript>
+
+		
+	<!--[if lt IE 9]><div class="blockMessage blockMessage&#45;&#45;important blockMessage&#45;&#45;iconic">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</div><![endif]-->
+
+
+		
+			<div class="p-body-header">
+			
+				
+					<div class="p-title ">
+					
+						
+							<h1 class="p-title-value">Decimation - All Alpha Updates</h1>
+						
+						
+					
+					</div>
+				
+
+				
+					<div class="p-description">
+	<ul class="listInline listInline--bullet">
+		<li>
+			<i class="fa fa-user" aria-hidden="true" title="Thread starter"></i>
+			<span class="u-srOnly">Thread starter</span>
+
+			<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username  u-concealed" dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a>
+		</li>
+		<li>
+			<i class="fa fa-clock-o" aria-hidden="true" title="Start date"></i>
+			<span class="u-srOnly">Start date</span>
+
+			<a href="post-547" class="u-concealed"><time  class="u-dt" dir="auto" datetime="2017-12-03T18:22:24+0000" data-time="1512325344" data-date-string="Dec 3, 2017" data-time-string="6:22 PM" title="Dec 3, 2017 at 6:22 PM">Dec 3, 2017</time></a>
+		</li>
+		
+			<li>
+				<i class="fa fa-tags" aria-hidden="true" title="Tags"></i>
+				<span class="u-srOnly">Tags</span>
+
+				
+					
+						<a href="../../tags/all/index.html" class="tagItem" dir="auto">all</a>
+					
+						<a href="../../tags/alpha/index.html" class="tagItem" dir="auto">alpha</a>
+					
+						<a href="../../tags/decimation/index.html" class="tagItem" dir="auto">decimation</a>
+					
+						<a href="../../tags/list/index.html" class="tagItem" dir="auto">list</a>
+					
+						<a href="../../tags/official/index.html" class="tagItem" dir="auto">official</a>
+					
+						<a href="../../tags/updates/index.html" class="tagItem" dir="auto">updates</a>
+					
+				
+				
+			</li>
+		
+	</ul>
+</div>
+				
+			
+			</div>
+		
+
+		<div class="p-body-main  ">
+			
+
+			<div class="p-body-content">
+				
+				<div class="p-body-pageContent">
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+		
+	
+	
+	
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+		
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<div class="block block--messages" data-xf-init="" data-type="post" data-href="/forums/inline-mod/">
+
+	
+	
+
+
+	<div class="block-outer"></div>
+
+	<div class="block-outer js-threadStatusField"></div>
+
+	<div class="block-container lbContainer"
+		data-xf-init="lightbox select-to-quote"
+		data-message-selector=".js-post"
+		data-lb-id="thread-214"
+		data-lb-universal="0">
+
+		<div class="block-body js-replyNewMessageContainer">
+			
+				
+					
+	
+	
+	<article class="message message--post js-post js-inlineModContainer  "
+		data-author="ScottehBoeh"
+		data-content="post-547"
+		id="js-post-547">
+
+		<span class="u-anchorTarget" id="post-547"></span>
+
+		<div class="message-inner">
+			<div class="message-cell message-cell--user">
+				
+				
+				
+
+	<section itemscope itemtype="https://schema.org/Person" class="message-user">
+		<div class="message-avatar ">
+			<div class="message-avatar-wrapper">
+				<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--m" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../../data/avatars/m/0/1.jpg@1521983219" srcset="../../data/avatars/l/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-m" itemprop="image" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="message-userDetails">
+			<h4 class="message-name"><a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip" itemprop="name"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a></h4>
+			<h5 class="userTitle message-userTitle" dir="auto" itemprop="jobTitle">Developer</h5>
+			<div class="userBanner userBanner--staff message-userBanner" dir="auto" itemprop="jobTitle"><span class="userBanner-before"></span><strong>Staff member</strong><span class="userBanner-after"></span></div>
+			<div class="message-date"><a href="post-547" class="u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-12-03T18:22:24+0000" data-time="1512325344" data-date-string="Dec 3, 2017" data-time-string="6:22 PM" title="Dec 3, 2017 at 6:22 PM">Dec 3, 2017</time></a></div>
+		</div>
+		<div class="message-permalink"><a href="post-547" class="u-concealed" rel="nofollow">#1</a></div>
+		
+			
+			
+		
+		<span class="message-userArrow"></span>
+	</section>
+
+			</div>
+			<div class="message-cell message-cell--main">
+				<div class="message-main js-quickEditTarget">
+
+					<header class="message-attribution">
+						<a href="post-547" class="message-attribution-main u-concealed" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-12-03T18:22:24+0000" data-time="1512325344" data-date-string="Dec 3, 2017" data-time-string="6:22 PM" title="Dec 3, 2017 at 6:22 PM">Dec 3, 2017</time></a>
+						<div class="message-attribution-opposite">
+							
+							<a href="post-547" class="u-concealed" rel="nofollow">#1</a>
+						</div>
+					</header>
+
+					<div class="message-content js-messageContent">
+
+						
+						
+						
+
+						<div class="message-userContent lbContainer js-lbContainer "
+							data-lb-id="post-547"
+							data-lb-caption-desc="ScottehBoeh &middot; Dec 3, 2017 at 6:22 PM">
+
+							
+								
+
+	
+
+							
+
+							<article class="message-body js-selectToQuote">
+								
+								<div class="bbWrapper">Version 0.43a<br />
+- Added IMI Desert Eagle<br />
+- Fixed 357 Ammunition Bullet Model<br />
+- Fixed MOTD Server Screen<br />
+----------------------------------------<br />
+Version 0.42a<br />
+- Added Uzi<br />
+- Added Spas12<br />
+- Added Server MOTD's<br />
+----------------------------------------<br />
+Version 0.41a_fix<br />
+- Fixed visual issues (seeing through walls)<br />
+----------------------------------------<br />
+Version 0.41a<br />
+- Added PKP Machine Gun<br />
+- Dogs no longer bark in Safezone<br />
+- Dogs also don't detect players in Safezone<br />
+----------------------------------------<br />
+Version 0.40a<br />
+- Added Companions/Dogs<br />
+- Added new Client Config File Stuff<br />
+----------------------------------------<br />
+Version 0.39a<br />
+- Added Barbed Wire<br />
+- Added Campfires<br />
+- Added Punji Sticks<br />
+- Added new Fortification Trader<br />
+----------------------------------------<br />
+Version 0.38a<br />
+- Added Doggo Notification<br />
+- Added Profile Rank<br />
+----------------------------------------<br />
+Version 0.37a &amp; 0.37a_fix<br />
+- Added Beep/Horn to ATV<br />
+- Added new Skins for ATV<br />
+- Added more Player-based Rendering<br />
+- Fixed some Vehicle Spawn Stuff<br />
+----------------------------------------<br />
+Version 0.36a<br />
+- Added Rendering of Weapons on Back<br />
+- Added Military and Police Zones<br />
+- Fixed ATV Rendering<br />
+----------------------------------------<br />
+Version 0.35a<br />
+- Completed Re-connection Issues<br />
+- Network works completely fine now! :)<br />
+- Fixed some issues relating to the Main Menu<br />
+----------------------------------------<br />
+Version 0.34a<br />
+- Complete Network Code Revamp<br />
+----------------------------------------<br />
+Version 0.33a<br />
+- Added Kills/Deaths Counter<br />
+- Updated UI Features (such as Notifications)<br />
+----------------------------------------<br />
+Version 0.32a<br />
+- Added Discord Connection Capability<br />
+- Added /getAuth Command to Official Servers<br />
+----------------------------------------<br />
+Version 0.31a<br />
+- Added Player Count to Management Server<br />
+- Fixed issues with Community Server List<br />
+----------------------------------------<br />
+Version 0.30a<br />
+- Added new Attachments (Experimental)<br />
+- Added new Community Server List<br />
+----------------------------------------<br />
+Version 0.29a<br />
+- Added Large Military Backpacks<br />
+- Added small client-side &quot;aiming&quot; Anim.<br />
+- Fixed remaining issues with banker<br />
+----------------------------------------<br />
+Version 0.28a<br />
+- Fixed major issues relating to banker<br />
+syncing problems<br />
+----------------------------------------<br />
+Version 0.25a-0.27a<br />
+- Added Vehicles Tab<br />
+- Added early stages of Banker<br />
+- Fixed Radio Item<br />
+- Fixed Supply Drop Radio<br />
+- Fixed Global Chat<br />
+----------------------------------------<br />
+Version 0.24a<br />
+- Added new Session Manager<br />
+- Fixed supply drop config file<br />
+- Implemented new Anti-cheat Feature(s)<br />
+----------------------------------------<br />
+Version 0.23a<br />
+- Added new Combat Log System<br />
+- Added Quad Bike (ATV) - Very buggy!<br />
+- Added Invalid Session Indicator<br />
+- Fixed Safezone Camping System<br />
+----------------------------------------<br />
+Version 0.22a<br />
+- Added new Clans Humanity System<br />
+- Added Power Generator<br />
+- Added Batteries<br />
+- Added Convenience Trader<br />
+- Fixed Menu Freeze Issue<br />
+- Fixed Traders Freeze Issue<br />
+----------------------------------------<br />
+Version 0.21a<br />
+- Fixed weapon tracking issues<br />
+----------------------------------------<br />
+Version 0.19a.6f<br />
+- Fixed small Buffered FileInput issue<br />
+----------------------------------------<br />
+Version 0.19a.6<br />
+- Added new 3D armor rendering to Arms<br />
+- Added revamped version of Zones (/zone)<br />
+----------------------------------------<br />
+Version 0.19a.5<br />
+- Added new improved Player List<br />
+- Added new revamped version of Traders<br />
+- Fixed Clan &quot;null&quot; issue<br />
+----------------------------------------<br />
+Version 0.19a.4<br />
+- Added new Clan System<br />
+----------------------------------------<br />
+Version 0.19a.3<br />
+- Finally fixed Corpses<br />
+- Early stages of new Clan System<br />
+----------------------------------------<br />
+Version 0.19a.2<br />
+- Fixed more corpse synching issues<br />
+----------------------------------------<br />
+Version 0.19a.1<br />
+- Fixed corpse-related issues<br />
+- Fixed connection to Client-Network<br />
+- Added new thread for network connections<br />
+----------------------------------------<br />
+Version 0.19a<br />
+- Optimised connection to Client-Network<br />
+----------------------------------------<br />
+Version 0.18a<br />
+- Added Juggernaut Armor<br />
+- Added Clapping Gesture<br />
+<br />
+- Fixed corpse synching/gui refreshing<br />
+----------------------------------------<br />
+Version 0.17a<br />
+- Fixed issues relating to corpses/guns<br />
+----------------------------------------<br />
+Version 0.16a<br />
+- Fixed issues relating to client-side corpses<br />
+----------------------------------------<br />
+Version 0.15a<br />
+- Fixed issues relatin to Server List functionality<br />
+----------------------------------------<br />
+Version 0.14a<br />
+- Fixed corpses-related issues<br />
+- Fixed various bugs with traders<br />
+----------------------------------------<br />
+Version 0.13a<br />
+- Fixed backpack syncing issue<br />
+<br />
+- Trader slots now reset after purchase<br />
+----------------------------------------<br />
+Version 0.12a<br />
+- Fixed trader GUI<br />
+- Fixed crashes relating to backpacks<br />
+<br />
+- Weapons no longer take in empty magazines<br />
+----------------------------------------<br />
+Version 0.11a<br />
+- Fixed issues relating to backpacks<br />
+- Fixed GUI-related issues with traders<br />
+----------------------------------------<br />
+Version 0.10a<br />
+- Fixed major problems with backpacks<br />
+- Fixed dragunov scope<br />
+- Fixed syncing with crouc/prone mechanisms<br />
+- Fixed issues relating to trading<br />
+<br />
+- Loot blocks now disappear after given time<br />
+- Infection no longer harms players inside safezones<br />
+- Bleeding and Infection no longer occur in safezones<br />
+- Added new radio sounds (Music)<br />
+----------------------------------------<br />
+Version 0.9a<br />
+- Fixed issues relating to leveling system<br />
+----------------------------------------<br />
+Version 0.8a<br />
+- Fixed damage in safezones<br />
+----------------------------------------<br />
+Version 0.7a<br />
+- Fixed issues with Infection<br />
+- Fixed backpack-related issues<br />
+- Fixed issues relating to PvP<br />
+----------------------------------------<br />
+Version 0.6a<br />
+- Fixed Safe Zone manager tool for Admins<br />
+----------------------------------------<br />
+Version 0.5a<br />
+- Fixed melee weapon damage not registering<br />
+- Fixed issues relating to corpses<br />
+----------------------------------------<br />
+Version 0.4a<br />
+- Fixed remaining issues relating to Safe Zones<br />
+----------------------------------------<br />
+Version 0.3a<br />
+- Fixed missing models for specific vests<br />
+- Fixed missing textures for specific items<br />
+- Fixed main menu crash issues<br />
+- Fixed update notification popup on menu<br />
+- Fixed supply drop spawning<br />
+- Fixed melee weapon damage in Safe Zones<br />
+- Fixed Safe Zones<br />
+----------------------------------------<br />
+Version 0.2a<br />
+- Fixed leg breaking<br />
+- Fixed block breaking<br />
+- Replaced donation button with website button<br />
+<br />
+- Now checks if player is in creative before breaking<br />
+leg when shot.<br />
+- Loot config now downloads from File Server (Global)</div>
+								<div class="js-selectToQuoteEnd">&nbsp;</div>
+								
+							</article>
+
+							
+								
+
+	
+
+							
+
+							
+						</div>
+
+						
+
+						
+	
+
+					</div>
+
+					<footer class="message-footer">
+						
+
+						<div class="likesBar js-likeList ">
+							
+						</div>
+
+						<div class="js-historyTarget message-historyTarget toggleTarget" data-href="trigger-href"></div>
+					</footer>
+				</div>
+			</div>
+		</div>
+	</article>
+
+				
+			
+		</div>
+	</div>
+
+	
+		<div class="block-outer block-outer--after">
+			
+				
+				
+				
+					<div class="block-outer-opposite">
+						
+							<a href="../../login/index.html" class="button--link button" data-xf-click="overlay"><span class="button-text">
+								You must log in or register to reply here.
+							</span></a>
+						
+					</div>
+				
+			
+		</div>
+	
+
+	
+	
+
+</div>
+
+
+
+
+
+<div class="blockMessage blockMessage--none">
+	
+	
+		
+		<div class="shareButtons shareButtons--iconic" data-xf-init="share-buttons">
+			
+				<span class="shareButtons-label">Share:</span>
+			
+
+			
+
+				
+					<a class="shareButtons-button shareButtons-button--facebook" data-href="https://www.facebook.com/sharer.php?u={url}">
+						<i aria-hidden="true"></i>
+						<span>Facebook</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--twitter" data-href="https://twitter.com/intent/tweet?url={url}&amp;text={title}">
+						<i aria-hidden="true"></i>
+						<span>Twitter</span>
+					</a>
+				
+
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--reddit" data-href="https://reddit.com/submit?url={url}&amp;title={title}">
+						<i aria-hidden="true"></i>
+						<span>Reddit</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--pinterest" data-href="https://pinterest.com/pin/create/bookmarklet/?url={url}&amp;description={title}">
+						<i></i>
+						<span>Pinterest</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--tumblr" data-href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&amp;title={title}">
+						<i></i>
+						<span>Tumblr</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--whatsApp" data-href="https://api.whatsapp.com/send?text={title}&nbsp;{url}">
+						<i></i>
+						<span>WhatsApp</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--email" data-href="mailto:?subject={title}&amp;body={url}">
+						<i></i>
+						<span>Email</span>
+					</a>
+				
+
+				
+					<a class="shareButtons-button shareButtons-button--link is-hidden" data-clipboard="{url}">
+						<i></i>
+						<span>Link</span>
+					</a>
+					
+				
+			
+		</div>
+	
+
+</div>
+
+
+
+</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+		
+	
+		<ul class="p-breadcrumbs p-breadcrumbs--bottom"
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+	</li>
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../index.html#announcements-updates.6" itemprop="item">
+			<span itemprop="name">Announcements/Updates</span>
+		</a>
+	</li>
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../forums/mod-updates.8/index.html" itemprop="item">
+			<span itemprop="name">Mod Updates</span>
+		</a>
+	</li>
+
+			
+
+		
+		</ul>
+	
+
+		
+	</div>
+</div>
+
+<footer class="p-footer" id="footer">
+	<div class="p-footer-inner">
+
+		<div class="p-footer-row">
+			
+			<div class="p-footer-row-opposite">
+				<ul class="p-footer-linkList">
+					
+						
+							<li><a href="../../misc/contact" data-xf-click="overlay">Contact us</a></li>
+						
+					
+
+					
+						<li><a href="../../../download.html">Download the Mod</a></li>
+					
+
+					
+						<li><a href="http://discord.gg/Decimation">Discord</a></li>
+					
+
+					
+						<li><a href="http://mcdecimation.buycraft.net/category/1132413">Get a Cape!</a></li>
+					
+
+					
+						<li><a href="../../help/terms/index.html">Terms and rules</a></li>
+					
+
+					
+
+					
+						<li><a href="../../help/index.html">Help</a></li>
+					
+
+					
+						<li><a href="../../../index.html">Home</a></li>
+					
+
+					<li><a href="../../forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa fa-rss"></i></span></a></li>
+				</ul>
+			</div>
+		</div>
+
+		
+			<div class="p-footer-copyright">
+			
+				<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank">Forum software by XenForo&trade; <span class="copyright">&copy; 2010-2018 XenForo Ltd.</span></a>
+				
+<div class="discord-copyright">
+	<a href="https://xenforo.com/community/resources/6058/"
+		target="_blank">Discord Integration</a> &copy; Jason Axelrod of
+	<a href="https://8wayrun.com/" target="_blank">8WAYRUN</a>
+</div>
+			
+			</div>
+		
+
+		
+	</div>
+</footer>
+
+</div> <!-- closing p-pageWrapper -->
+
+<div class="u-bottomFixer js-bottomFixTarget">
+	
+</div>
+
+
+	<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+		<a href="post-547#top" class="button--scroll button" data-xf-click="scroll-to"><span class="button-text"><i class="fa fa-arrow-up"></i></span></a>
+		
+	</div>
+
+
+
+	<script src="../../js/vendor/jquery/jquery-3.2.1.min.js@_v=e6e8a019"></script>
+	<script src="../../js/vendor/vendor-compiled.js@_v=e6e8a019"></script>
+	<script src="../../js/xf/core-compiled.js@_v=e6e8a019"></script>
+	<script>
+
+						jQuery.extend(XF.phrases, {
+							link_copied_to_clipboard: "Link copied to clipboard."
+						});
+					
+</script>
+
+	<script>
+		jQuery.extend(true, XF.config, {
+			userId: 0,
+			url: {
+				fullBase: 'http://www.mcdecimation.net/forums/',
+				basePath: '/forums/',
+				css: '/forums/css.php?css=__SENTINEL__&s=2&l=1&d=1521142307',
+				keepAlive: '/forums/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_'
+			},
+			csrf: '1522143073,a10c9554d835ce09e1cd324131a54f0c',
+			js: {},
+			css: {"public:message.less":true,"public:share_controls.less":true,"public:extra.less":true},
+			time: {
+				now: 1522143073,
+				today: 1522105200,
+				todayDow: 2
+			},
+			borderSizeFeature: '3px',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 67108864,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unread: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {}
+		});
+
+		jQuery.extend(XF.phrases, {
+			date_x_at_time_y: "{date} at {time}",
+			day_x_at_time_y:  "{day} at {time}",
+			yesterday_at_x:   "Yesterday at {time}",
+			x_minutes_ago:    "{minutes} minutes ago",
+			one_minute_ago:   "1 minute ago",
+			a_moment_ago:     "A moment ago",
+			today_at_x:       "Today at {time}",
+			in_a_moment:      "In a moment",
+			in_a_minute:      "In a minute",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Later today at {time}",
+			tomorrow_at_x:    "Tomorrow at {time}",
+
+			day0: "Sunday",
+			day1: "Monday",
+			day2: "Tuesday",
+			day3: "Wednesday",
+			day4: "Thursday",
+			day5: "Friday",
+			day6: "Saturday",
+
+			dayShort0: "Sun",
+			dayShort1: "Mon",
+			dayShort2: "Tue",
+			dayShort3: "Wed",
+			dayShort4: "Thu",
+			dayShort5: "Fri",
+			dayShort6: "Sat",
+
+			month0: "January",
+			month1: "February",
+			month2: "March",
+			month3: "April",
+			month4: "May",
+			month5: "June",
+			month6: "July",
+			month7: "August",
+			month8: "September",
+			month9: "October",
+			month10: "November",
+			month11: "December",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "Oops! We ran into some problems.",
+			oops_we_ran_into_some_problems_more_details_console: "Oops! We ran into some problems. Please try again later. More error details may be in the browser console.",
+			file_too_large_to_upload: "The file is too large to be uploaded.",
+			files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+			close: "Close",
+
+			showing_x_of_y_items: "Showing {count} of {total} items",
+			showing_all_items: "Showing all items",
+			no_items_to_display: "No items to display"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+
+
+
+	
+		
+	
+	
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "DiscussionForumPosting",
+			"@id": "http:\/\/www.mcdecimation.net\/forums\/threads\/decimation-all-alpha-updates.214\/",
+			"headline": "Decimation - All Alpha Updates",
+			"articleBody": "Version 0.43a\n- Added IMI Desert Eagle\n- Fixed 357 Ammunition Bullet Model\n- Fixed MOTD Server Screen\n----------------------------------------\nVersion 0.42a\n- Added Uzi\n- Added Spas12\n- Added Server MOTD's\n----------------------------------------\nVersion 0.41a_fix\n- Fixed visual issues (seeing through walls)\n----------------------------------------\nVersion 0.41a\n- Added PKP Machine Gun\n- Dogs no longer bark in Safezone\n- Dogs also don't detect players in Safezone\n----------------------------------------\nVersion 0.40a\n- Added Companions\/Dogs\n- Added new Client Config File Stuff\n----------------------------------------\nVersion 0.39a\n- Added Barbed Wire\n- Added Campfires\n- Added Punji Sticks\n- Added new Fortification Trader\n----------------------------------------\nVersion 0.38a\n- Added Doggo Notification\n- Added Profile Rank\n----------------------------------------\nVersion 0.37a & 0.37a_fix\n- Added Beep\/Horn to ATV\n- Added new Skins for ATV\n- Added more Player-based Rendering\n- Fixed some Vehicle Spawn Stuff\n----------------------------------------\nVersion 0.36a\n- Added Rendering of Weapons on Back\n- Added Military and Police Zones\n- Fixed ATV Rendering\n----------------------------------------\nVersion 0.35a\n- Completed Re-connection Issues\n- Network works completely fine now! :)\n- Fixed some issues relating to the Main Menu\n----------------------------------------\nVersion 0.34a\n- Complete Network Code Revamp\n----------------------------------------\nVersion 0.33a\n- Added Kills\/Deaths Counter\n- Updated UI Features (such as Notifications)\n----------------------------------------\nVersion 0.32a\n- Added Discord Connection Capability\n- Added \/getAuth Command to Official Servers\n----------------------------------------\nVersion 0.31a\n- Added Player Count to Management Server\n- Fixed issues with Community Server List\n----------------------------------------\nVersion 0.30a\n- Added new Attachments (Experimental)\n- Added new Community Server List\n----------------------------------------\nVersion 0.29a\n- Added Large Military Backpacks\n- Added small client-side \"aiming\" Anim.\n- Fixed remaining issues with banker\n----------------------------------------\nVersion 0.28a\n- Fixed major issues relating to banker\nsyncing problems\n----------------------------------------\nVersion 0.25a-0.27a\n- Added Vehicles Tab\n- Added early stages of Banker\n- Fixed Radio Item\n- Fixed Supply Drop Radio\n- Fixed Global Chat\n----------------------------------------\nVersion 0.24a\n- Added new Session Manager\n- Fixed supply drop config file\n- Implemented new Anti-cheat Feature(s)\n----------------------------------------\nVersion 0.23a\n- Added new Combat Log System\n- Added Quad Bike (ATV) - Very buggy!\n- Added Invalid Session Indicator\n- Fixed Safezone Camping System\n----------------------------------------\nVersion 0.22a\n- Added new Clans Humanity System\n- Added Power Generator\n- Added Batteries\n- Added Convenience Trader\n- Fixed Menu Freeze Issue\n- Fixed Traders Freeze Issue\n----------------------------------------\nVersion 0.21a\n- Fixed weapon tracking issues\n----------------------------------------\nVersion 0.19a.6f\n- Fixed small Buffered FileInput issue\n----------------------------------------\nVersion 0.19a.6\n- Added new 3D armor rendering to Arms\n- Added revamped version of Zones (\/zone)\n----------------------------------------\nVersion 0.19a.5\n- Added new improved Player List\n- Added new revamped version of Traders\n- Fixed Clan \"null\" issue\n----------------------------------------\nVersion 0.19a.4\n- Added new Clan System\n----------------------------------------\nVersion 0.19a.3\n- Finally fixed Corpses\n- Early stages of new Clan System\n----------------------------------------\nVersion 0.19a.2\n- Fixed more corpse synching issues\n----------------------------------------\nVersion 0.19a.1\n- Fixed corpse-related issues\n- Fixed connection to Client-Network\n- Added new thread for network connections\n----------------------------------------\nVersion 0.19a\n- Optimised connection to Client-Network\n----------------------------------------\nVersion 0.18a\n- Added Juggernaut Armor\n- Added Clapping Gesture\n\n- Fixed corpse synching\/gui refreshing\n----------------------------------------\nVersion 0.17a\n- Fixed issues relating to corpses\/guns\n----------------------------------------\nVersion 0.16a\n- Fixed issues relating to client-side corpses\n----------------------------------------\nVersion 0.15a\n- Fixed issues relatin to Server List functionality\n----------------------------------------\nVersion 0.14a\n- Fixed corpses-related issues\n- Fixed various bugs with traders\n----------------------------------------\nVersion 0.13a\n- Fixed backpack syncing issue\n\n- Trader slots now reset after purchase\n----------------------------------------\nVersion 0.12a\n- Fixed trader GUI\n- Fixed crashes relating to backpacks\n\n- Weapons no longer take in empty magazines\n----------------------------------------\nVersion 0.11a\n- Fixed issues relating to backpacks\n- Fixed GUI-related issues with traders\n----------------------------------------\nVersion 0.10a\n- Fixed major problems with backpacks\n- Fixed dragunov scope\n- Fixed syncing with crouc\/prone mechanisms\n- Fixed issues relating to trading\n\n- Loot blocks now disappear after given time\n- Infection no longer harms players inside safezones\n- Bleeding and Infection no longer occur in safezones\n- Added new radio sounds (Music)\n----------------------------------------\nVersion 0.9a\n- Fixed issues relating to leveling system\n----------------------------------------\nVersion 0.8a\n- Fixed damage in safezones\n----------------------------------------\nVersion 0.7a\n- Fixed issues with Infection\n- Fixed backpack-related issues\n- Fixed issues relating to PvP\n----------------------------------------\nVersion 0.6a\n- Fixed Safe Zone manager tool for Admins\n----------------------------------------\nVersion 0.5a\n- Fixed melee weapon damage not registering\n- Fixed issues relating to corpses\n----------------------------------------\nVersion 0.4a\n- Fixed remaining issues relating to Safe Zones\n----------------------------------------\nVersion 0.3a\n- Fixed missing models for specific vests\n- Fixed missing textures for specific items\n- Fixed main menu crash issues\n- Fixed update notification popup on menu\n- Fixed supply drop spawning\n- Fixed melee weapon damage in Safe Zones\n- Fixed Safe Zones\n----------------------------------------\nVersion 0.2a\n- Fixed leg breaking\n- Fixed block breaking\n- Replaced donation button with website button\n\n- Now checks if player is in creative before breaking\nleg when shot.\n- Loot config now downloads from File Server (Global)",
+			"articleSection": "Mod Updates",
+			"author": {
+				"@type": "Person",
+				"name": "ScottehBoeh"
+			},
+			"datePublished": "2017-12-03",
+			"dateModified": "2017-12-03",
+			"image": "http:\/\/www.mcdecimation.net\/forums\/data\/avatars\/l\/0\/1.jpg?1521983219",
+			"interactionStatistic": {
+				"@type": "InteractionCounter",
+				"interactionType": "https://schema.org/ReplyAction",
+				"userInteractionCount": 0
+			}
+		}
+		</script>
+	
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

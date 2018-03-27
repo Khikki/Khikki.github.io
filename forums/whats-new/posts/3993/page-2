@@ -1,0 +1,2014 @@
+<!DOCTYPE html>
+<html id="XF" lang="en-US" dir="LTR"
+	data-app="public"
+	data-template="whats_new_posts"
+	data-container-key=""
+	data-content-key=""
+	data-logged-in="false"
+	data-cookie-prefix="xf_"
+	class="has-no-js template-whats_new_posts"
+	 data-run-jobs="">
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	
+	
+	
+
+	<title>New posts | Page 2 | Decimation</title>
+
+	
+		<link rel="prev" href="../index.html@skip=1" />
+	
+		<meta name="robots" content="noindex" />
+	
+
+	
+		
+	
+	
+	<meta property="og:site_name" content="Decimation" />
+
+
+	
+	
+		
+	
+	
+	<meta property="og:type" content="website" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:title" content="New posts" />
+		<meta property="twitter:title" content="New posts" />
+	
+
+
+	
+	
+	
+		
+	
+	
+	<meta property="og:url" content="http://www.mcdecimation.net/forums/whats-new/posts/3993/page-2" />
+
+
+	
+	
+		
+	
+	
+	
+		<meta property="og:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:image" content="http://www.mcdecimation.net/forums/styles/pixelgoose/metro/blue/xenforo/logo.png" />
+		<meta property="twitter:card" content="summary" />
+	
+
+
+	
+
+	
+		<meta name="theme-color" content="rgb(37, 37, 37)" />
+	
+
+	
+	
+	
+
+	
+		
+		<link rel="preload" href="../../../styles/fonts/fa/fontawesome-webfont.woff2@v=4.7.0" as="font" type="font/woff2" crossorigin="anonymous" />
+	
+
+	<link rel="stylesheet" href="../../../css.php@css=public%253Anormalize.css%252Cpublic%253Acore.less%252Cpublic%253Aapp.less%252Cpublic%253Afont_awesome.css&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=517097f86abe2fc17bdafbfb8e9e700128ef3187" />
+
+	
+	<link rel="stylesheet" href="../../../css.php@css=public%253Astructured_list.less%252Cpublic%253Aextra.less&amp;s=2&amp;l=1&amp;d=1521142307&amp;k=6a02c65d961dd219b746c98ec0d6ede95bc602b5" />
+
+	
+		<script src="../../../js/xf/preamble-compiled.js@_v=e6e8a019"></script>
+	
+
+
+	
+	
+		<link rel="apple-touch-icon" href="../../../styles/pixelgoose/metro/blue/xenforo/logo.png" />
+	
+	
+</head>
+<body data-template="whats_new_posts">
+
+<div class="p-pageWrapper" id="top">
+
+
+
+<header class="p-header" id="header">
+	<div class="p-header-inner">
+		<div class="p-header-content">
+
+			<div class="p-header-logo p-header-logo--image">
+				<a href="../../../../index.html">
+					<img src="../../../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+						 />
+				</a>
+			</div>
+
+			
+		</div>
+	</div>
+</header>
+
+
+
+
+
+	<div class="p-navSticky p-navSticky--primary" data-xf-init="sticky-header">
+		
+	<nav class="p-nav">
+		<div class="p-nav-inner">
+			<a class="p-nav-menuTrigger" data-xf-click="off-canvas" data-menu=".js-headerOffCanvasMenu" role="button" tabindex="0">
+				<i aria-hidden="true"></i>
+				<span class="p-nav-menuText">Menu</span>
+			</a>
+
+			<div class="p-nav-smallLogo">
+				<a href="../../../../index.html">
+					<img src="../../../styles/pixelgoose/metro/blue/xenforo/logo.png"
+						alt="Decimation"
+					 />
+				</a>
+			</div>
+
+			<div class="p-nav-scroller hScroller" data-xf-init="h-scroller" data-auto-scroll=".p-navEl.is-selected">
+				<div class="hScroller-scroll">
+					<ul class="p-nav-list js-offCanvasNavSource">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../../../../index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="1"
+		data-nav-id="home">Home</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl is-selected" data-has-children="true">
+		
+
+			
+	
+	<a href="../../../index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="forums">Forums</a>
+
+
+			<a data-xf-key="2"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">Forums</h4>-->
+					
+						
+	
+	
+	<a href="../index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		
+		
+		data-nav-id="newPosts">New posts</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+						<li>
+							
+	<div class="p-navEl " data-has-children="true">
+		
+
+			
+	
+	<a href="../../index.html"
+		class="p-navEl-link p-navEl-link--splitMenu "
+		
+		
+		data-nav-id="whatsNew">What's new</a>
+
+
+			<a data-xf-key="3"
+				data-xf-click="menu"
+				data-menu-pos-ref="< .p-navEl"
+				data-arrow-pos-ref="< .p-navEl"
+				class="p-navEl-splitTrigger"
+				role="button"
+				tabindex="0"
+				aria-label="Toggle expanded"
+				aria-expanded="false"
+				aria-haspopup="true"></a>
+
+		
+		
+			<div class="menu menu--structural" data-menu="menu" aria-hidden="true">
+				<div class="menu-content">
+					<!--<h4 class="menu-header">What's new</h4>-->
+					
+						
+	
+	
+	<a href="../index.html"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="whatsNewPosts">New posts</a>
+
+	
+
+					
+						
+	
+	
+	<a href="../../latest-activity"
+		class="menu-linkRow u-indentDepth0 js-offCanvasCopy "
+		 rel="nofollow"
+		
+		data-nav-id="latestActivity">Latest activity</a>
+
+	
+
+					
+				</div>
+			</div>
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+
+			<div class="p-nav-opposite">
+				
+				<div class="p-navgroup p-account p-navgroup--guest">
+					
+							<a href="http://mcdecimation.buycraft.net/category/1132413"
+								class="p-navgroup-link">
+								<i aria-hidden="true"></i>
+								<span class="p-navgroup-linkText">⭐ Get a Cape!</span>
+							</a>
+					
+					
+						<a href="../../../login/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--logIn" rel="nofollow" data-xf-click="overlay">
+							<span class="p-navgroup-linkText">Log in</span>
+						</a>
+						
+							<a href="../../../register/index.html" class="p-navgroup-link p-navgroup-link--textual p-navgroup-link--register" rel="nofollow" data-xf-click="overlay">
+								<span class="p-navgroup-linkText">Register</span>
+							</a>
+						
+					
+				</div>
+
+				<div class="p-navgroup p-discovery">
+					<a href="../../index.html"
+						class="p-navgroup-link p-navgroup-link--iconic p-navgroup-link--whatsnew"
+						title="What&#039;s new">
+						<i aria-hidden="true"></i>
+						<span class="p-navgroup-linkText">What's new</span>
+					</a>
+
+					
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	</div>
+	
+	
+		<div class="p-sectionLinks">
+			<div class="p-sectionLinks-inner hScroller" data-xf-init="h-scroller">
+				<div class="hScroller-scroll">
+					<ul class="p-sectionLinks-list">
+					
+						<li>
+							
+	<div class="p-navEl " >
+		
+
+			
+	
+	<a href="../index.html"
+		class="p-navEl-link "
+		
+		data-xf-key="alt+1"
+		data-nav-id="newPosts">New posts</a>
+
+
+			
+
+		
+		
+	</div>
+
+						</li>
+					
+					</ul>
+				</div>
+			</div>
+		</div>
+	
+
+
+
+<div class="offCanvasMenu offCanvasMenu--nav js-headerOffCanvasMenu" data-menu="menu" aria-hidden="true" data-ocm-builder="navigation">
+	<div class="offCanvasMenu-backdrop" data-menu-close="true"></div>
+	<div class="offCanvasMenu-content">
+		<div class="offCanvasMenu-header">
+			Menu
+			<a class="offCanvasMenu-closer" data-menu-close="true" role="button" tabindex="0" aria-label="Close"></a>
+		</div>
+		
+			<div class="p-offCanvasRegisterLink">
+				<div class="offCanvasMenu-linkHolder">
+					<a href="../../../login/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+						Log in
+					</a>
+				</div>
+				<hr class="offCanvasMenu-separator" />
+				
+					<div class="offCanvasMenu-linkHolder">
+						<a href="../../../register/index.html" class="offCanvasMenu-link" rel="nofollow" data-xf-click="overlay" data-menu-close="true">
+							Register
+						</a>
+					</div>
+					<hr class="offCanvasMenu-separator" />
+				
+			</div>
+		
+		<div class="js-offCanvasNavTarget"></div>
+	</div>
+</div>
+
+<div class="p-body">
+	<div class="p-body-inner">
+		<!--XF:EXTRA_OUTPUT-->
+
+		
+
+		
+
+		
+		
+	
+		<ul class="p-breadcrumbs "
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+
+		
+	<noscript><div class="blockMessage blockMessage--important blockMessage--iconic u-noJsOnly">JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.</div></noscript>
+
+		
+	<!--[if lt IE 9]><div class="blockMessage blockMessage&#45;&#45;important blockMessage&#45;&#45;iconic">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</div><![endif]-->
+
+
+		
+			<div class="p-body-header">
+			
+				
+					<div class="p-title ">
+					
+						
+							<h1 class="p-title-value">New posts</h1>
+						
+						
+					
+					</div>
+				
+
+				
+			
+			</div>
+		
+
+		<div class="p-body-main  ">
+			
+
+			<div class="p-body-content">
+				
+				<div class="p-body-pageContent">
+	
+
+
+
+	<div class="tabs tabs--standalone">
+		<div class="hScroller" data-xf-init="h-scroller">
+			<span class="hScroller-scroll">
+				
+	<a class="tabs-tab " href="../../index.html">What's new</a>
+	
+	<a class="tabs-tab is-active" href="../index.html" rel="nofollow">New posts</a>
+	
+	
+	
+	
+		
+
+		<a class="tabs-tab " href="../../latest-activity" rel="nofollow">Latest activity</a>
+	
+	
+
+			</span>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+<div class="block" data-xf-init="" data-type="thread" data-href="/forums/inline-mod/">
+	
+		<div class="block-outer">
+			<div class="block-outer-main"><nav class="pageNavWrapper pageNavWrapper--mixed ">
+
+
+
+<div class="pageNav  ">
+	
+		<a href="../index.html@skip=1" class="pageNav-jump pageNav-jump--prev">Prev</a>
+	
+
+	<ul class="pageNav-main">
+		
+
+	
+		<li class="pageNav-page "><a href="../index.html@skip=1">1</a></li>
+	
+
+
+		
+
+		
+
+		
+
+		
+
+	
+		<li class="pageNav-page pageNav-page--current "><a href="page-2">2</a></li>
+	
+
+	</ul>
+
+	
+</div>
+
+<div class="pageNavSimple">
+	
+		<a href="../index.html@skip=1"
+			class="pageNavSimple-el pageNavSimple-el--first"
+			data-xf-init="tooltip" title="First">
+			<i aria-hidden="true"></i> <span class="u-srOnly">First</span>
+		</a>
+		<a href="../index.html@skip=1" class="pageNavSimple-el pageNavSimple-el--prev">
+			<i aria-hidden="true"></i> Prev
+		</a>
+	
+
+	<a class="pageNavSimple-el pageNavSimple-el--current"
+		data-xf-init="tooltip" title="Go to page"
+		data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+		2 of 2
+	</a>
+	
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Go to page</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/forums/whats-new/posts/3993/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="2"  min="1" max="2" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Go</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+</div>
+
+</nav>
+
+
+
+</div>
+
+			
+		</div>
+	
+
+	<div class="block-container">
+		
+
+	
+
+
+		
+	
+		
+		<div class="structItemContainer">
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-289" data-author="FilthyJacket">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/filthyjacket.2515/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2515" data-xf-init="member-tooltip" style="background-color: #cc99cc; color: #773c77">
+			<span class="avatar-u2515-s">F</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../posts/720/index.html" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/out-of-the-map-glitch.289/preview">Out of the map glitch.</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/filthyjacket.2515/" class="username " dir="auto" data-user-id="2515" data-xf-init="member-tooltip">FilthyJacket</a></li>
+						<li class="structItem-startDate"><a href="../../../posts/720/index.html" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-12T10:18:12+0000" data-time="1520849892" data-date-string="Mar 12, 2018" data-time-string="10:18 AM" title="Mar 12, 2018 at 10:18 AM">Mar 12, 2018</time></a></li>
+						
+							<li><a href="../../../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>1</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>62</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/out-of-the-map-glitch.289/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-12T19:07:21+0000" data-time="1520881641" data-date-string="Mar 12, 2018" data-time-string="7:07 PM" title="Mar 12, 2018 at 7:07 PM">Mar 12, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-203" data-author="VeteranPug">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/veteranpug.2018/" class="avatar avatar--s" data-user-id="2018" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/2/2018.jpg@1521654805" srcset="../../../data/avatars/m/2/2018.jpg@1521654805 2x" alt="VeteranPug" class="avatar-u2018-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../posts/717/index.html" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/topic-snipers-in-game.203/preview">Topic:Snipers in-game</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/veteranpug.2018/" class="username " dir="auto" data-user-id="2018" data-xf-init="member-tooltip">VeteranPug</a></li>
+						<li class="structItem-startDate"><a href="../../../posts/717/index.html" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2017-11-10T17:52:41+0000" data-time="1510336361" data-date-string="Nov 10, 2017" data-time-string="5:52 PM" title="Nov 10, 2017 at 5:52 PM">Nov 10, 2017</time></a></li>
+						
+							<li><a href="../../../forums/general-discussion.9/index.html">General Discussion</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>6</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>463</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/topic-snipers-in-game.203/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-12T11:53:04+0000" data-time="1520855584" data-date-string="Mar 12, 2018" data-time-string="11:53 AM" title="Mar 12, 2018 at 11:53 AM">Mar 12, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/alan-grigorjev-kuznecov.2516/" class="username " dir="auto" data-user-id="2516" data-xf-init="member-tooltip">Alan Grigorjev Kuznecov</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-287" data-author="kaisa">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/kaisa.2511/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2511" data-xf-init="member-tooltip" style="background-color: #6633cc; color: #d1c2f0">
+			<span class="avatar-u2511-s">K</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../posts/713/index.html" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/payment-method.287/preview">Payment method</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/kaisa.2511/" class="username " dir="auto" data-user-id="2511" data-xf-init="member-tooltip">kaisa</a></li>
+						<li class="structItem-startDate"><a href="../../../posts/713/index.html" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-10T18:42:04+0000" data-time="1520707324" data-date-string="Mar 10, 2018" data-time-string="6:42 PM" title="Mar 10, 2018 at 6:42 PM">Mar 10, 2018</time></a></li>
+						
+							<li><a href="../../../forums/general-discussion.9/index.html">General Discussion</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>2</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>59</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/payment-method.287/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-10T22:30:36+0000" data-time="1520721036" data-date-string="Mar 10, 2018" data-time-string="10:30 PM" title="Mar 10, 2018 at 10:30 PM">Mar 10, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/kaisa.2511/" class="username " dir="auto" data-user-id="2511" data-xf-init="member-tooltip">kaisa</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-288" data-author="ScottehBoeh">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/0/1.jpg@1521983219" srcset="../../../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+				<ul class="structItem-statuses">
+				
+					
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--sticky" aria-hidden="true" title="Sticky"></i>
+							<span class="u-srOnly">Sticky</span>
+						</li>
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--locked" aria-hidden="true" title="Locked"></i>
+							<span class="u-srOnly">Locked</span>
+						</li>
+					
+					
+					
+				
+				</ul>
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/decimation-all-beta-updates.288/post-712" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/decimation-all-beta-updates.288/preview">Decimation - All Beta Updates</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a></li>
+						<li class="structItem-startDate"><a href="../../../threads/decimation-all-beta-updates.288/post-712" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-10T20:42:21+0000" data-time="1520714541" data-date-string="Mar 10, 2018" data-time-string="8:42 PM" title="Mar 10, 2018 at 8:42 PM">Mar 10, 2018</time></a></li>
+						
+							<li><a href="../../../forums/mod-updates.8/index.html">Mod Updates</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 1">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>102</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/decimation-all-beta-updates.288/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-10T20:42:21+0000" data-time="1520714541" data-date-string="Mar 10, 2018" data-time-string="8:42 PM" title="Mar 10, 2018 at 8:42 PM">Mar 10, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">ScottehBoeh</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-285" data-author="Takazaki">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/takazaki.2509/" class="avatar avatar--s" data-user-id="2509" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/2/2509.jpg@1520633498" srcset="../../../data/avatars/m/2/2509.jpg@1520633498 2x" alt="Takazaki" class="avatar-u2509-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../posts/708/index.html" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/here-are-ideas-i-have-for-decimation.285/preview">Here are ideas I have for Decimation</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/takazaki.2509/" class="username " dir="auto" data-user-id="2509" data-xf-init="member-tooltip">Takazaki</a></li>
+						<li class="structItem-startDate"><a href="../../../posts/708/index.html" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-09T22:43:33+0000" data-time="1520635413" data-date-string="Mar 9, 2018" data-time-string="10:43 PM" title="Mar 9, 2018 at 10:43 PM">Mar 9, 2018</time></a></li>
+						
+							<li><a href="../../../forums/suggestions-and-ideas.12/index.html">Suggestions and Ideas</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>2</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>82</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/here-are-ideas-i-have-for-decimation.285/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-10T09:18:08+0000" data-time="1520673488" data-date-string="Mar 10, 2018" data-time-string="9:18 AM" title="Mar 10, 2018 at 9:18 AM">Mar 10, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/takazaki.2509/" class="username " dir="auto" data-user-id="2509" data-xf-init="member-tooltip">Takazaki</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-284" data-author="Alchoni_">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/alchoni_.2507/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2507" data-xf-init="member-tooltip" style="background-color: #d6b85c; color: #66531a">
+			<span class="avatar-u2507-s">A</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../posts/705/index.html" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/can-i-use-your-mod.284/preview">Can i use your mod ?</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/alchoni_.2507/" class="username " dir="auto" data-user-id="2507" data-xf-init="member-tooltip">Alchoni_</a></li>
+						<li class="structItem-startDate"><a href="../../../posts/705/index.html" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-08T19:21:07+0000" data-time="1520536867" data-date-string="Mar 8, 2018" data-time-string="7:21 PM" title="Mar 8, 2018 at 7:21 PM">Mar 8, 2018</time></a></li>
+						
+							<li><a href="../../../forums/general-discussion.9/index.html">General Discussion</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>2</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>89</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/can-i-use-your-mod.284/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-10T07:53:25+0000" data-time="1520668405" data-date-string="Mar 10, 2018" data-time-string="7:53 AM" title="Mar 10, 2018 at 7:53 AM">Mar 10, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-286" data-author="iMkp - Matthew">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="avatar avatar--s" data-user-id="263" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/0/263.jpg@1521236948" srcset="../../../data/avatars/m/0/263.jpg@1521236948 2x" alt="iMkp - Matthew" class="avatar-u263-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+				<ul class="structItem-statuses">
+				
+					
+					
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--locked" aria-hidden="true" title="Locked"></i>
+							<span class="u-srOnly">Locked</span>
+						</li>
+					
+					
+					
+				
+				</ul>
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/bukovka-map-locations-coordinates.286/post-707" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/bukovka-map-locations-coordinates.286/preview">Bukovka - Map Locations / Coordinates.</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/bukovka-map-locations-coordinates.286/post-707" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-10T07:42:30+0000" data-time="1520667750" data-date-string="Mar 10, 2018" data-time-string="7:42 AM" title="Mar 10, 2018 at 7:42 AM">Mar 10, 2018</time></a></li>
+						
+							<li><a href="../../../forums/public-announcements.7/index.html">Public Announcements</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>210</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/bukovka-map-locations-coordinates.286/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-10T07:42:30+0000" data-time="1520667750" data-date-string="Mar 10, 2018" data-time-string="7:42 AM" title="Mar 10, 2018 at 7:42 AM">Mar 10, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-283" data-author="ScottehBoeh">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/0/1.jpg@1521983219" srcset="../../../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+				<ul class="structItem-statuses">
+				
+					
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--sticky" aria-hidden="true" title="Sticky"></i>
+							<span class="u-srOnly">Sticky</span>
+						</li>
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--locked" aria-hidden="true" title="Locked"></i>
+							<span class="u-srOnly">Locked</span>
+						</li>
+					
+					
+					
+				
+				</ul>
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/how-to-fix-unable-to-spawn-traders.283/post-703" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/how-to-fix-unable-to-spawn-traders.283/preview">How to Fix: Unable to Spawn Traders!</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a></li>
+						<li class="structItem-startDate"><a href="../../../threads/how-to-fix-unable-to-spawn-traders.283/post-703" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-08T19:07:51+0000" data-time="1520536071" data-date-string="Mar 8, 2018" data-time-string="7:07 PM" title="Mar 8, 2018 at 7:07 PM">Mar 8, 2018</time></a></li>
+						
+							<li><a href="../../../forums/fixes-tutorials.11/index.html">Fixes/Tutorials</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>81</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/how-to-fix-unable-to-spawn-traders.283/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-08T19:07:51+0000" data-time="1520536071" data-date-string="Mar 8, 2018" data-time-string="7:07 PM" title="Mar 8, 2018 at 7:07 PM">Mar 8, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">ScottehBoeh</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-281" data-author="Lewbae">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/lewbae.2502/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2502" data-xf-init="member-tooltip" style="background-color: #663366; color: #c388c3">
+			<span class="avatar-u2502-s">L</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/single-player-looting-and-defining-regions.281/post-701" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/single-player-looting-and-defining-regions.281/preview">Single Player Looting and Defining Regions.</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/lewbae.2502/" class="username " dir="auto" data-user-id="2502" data-xf-init="member-tooltip">Lewbae</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/single-player-looting-and-defining-regions.281/post-701" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-06T17:49:06+0000" data-time="1520358546" data-date-string="Mar 6, 2018" data-time-string="5:49 PM" title="Mar 6, 2018 at 5:49 PM">Mar 6, 2018</time></a></li>
+						
+							<li><a href="../../../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>2</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>83</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/single-player-looting-and-defining-regions.281/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-07T12:02:50+0000" data-time="1520424170" data-date-string="Mar 7, 2018" data-time-string="12:02 PM" title="Mar 7, 2018 at 12:02 PM">Mar 7, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/lewbae.2502/" class="username " dir="auto" data-user-id="2502" data-xf-init="member-tooltip">Lewbae</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-279" data-author="Whitedrago">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/whitedrago.2497/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2497" data-xf-init="member-tooltip" style="background-color: #99cc99; color: #3c773c">
+			<span class="avatar-u2497-s">W</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/stuck.279/post-699" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/stuck.279/preview">Stuck</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/whitedrago.2497/" class="username " dir="auto" data-user-id="2497" data-xf-init="member-tooltip">Whitedrago</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/stuck.279/post-699" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-05T16:46:42+0000" data-time="1520268402" data-date-string="Mar 5, 2018" data-time-string="4:46 PM" title="Mar 5, 2018 at 4:46 PM">Mar 5, 2018</time></a></li>
+						
+							<li><a href="../../../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>1</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>60</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/stuck.279/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-06T19:57:44+0000" data-time="1520366264" data-date-string="Mar 6, 2018" data-time-string="7:57 PM" title="Mar 6, 2018 at 7:57 PM">Mar 6, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-280" data-author="kaden mcintyre">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/kaden-mcintyre.2500/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2500" data-xf-init="member-tooltip" style="background-color: #336633; color: #88c388">
+			<span class="avatar-u2500-s">K</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/how-to-join-official-server.280/post-697" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/how-to-join-official-server.280/preview">how to join official server</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/kaden-mcintyre.2500/" class="username " dir="auto" data-user-id="2500" data-xf-init="member-tooltip">kaden mcintyre</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/how-to-join-official-server.280/post-697" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-06T04:33:35+0000" data-time="1520310815" data-date-string="Mar 6, 2018" data-time-string="4:33 AM" title="Mar 6, 2018 at 4:33 AM">Mar 6, 2018</time></a></li>
+						
+							<li><a href="../../../forums/general-discussion.9/index.html">General Discussion</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>89</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/how-to-join-official-server.280/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-06T04:33:35+0000" data-time="1520310815" data-date-string="Mar 6, 2018" data-time-string="4:33 AM" title="Mar 6, 2018 at 4:33 AM">Mar 6, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/kaden-mcintyre.2500/" class="username " dir="auto" data-user-id="2500" data-xf-init="member-tooltip">kaden mcintyre</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-278" data-author="MamedTeumessian">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/mamedteumessian.2496/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2496" data-xf-init="member-tooltip" style="background-color: #66cc33; color: #1f3d0f">
+			<span class="avatar-u2496-s">M</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/what-i-personally-think-should-be-added-to-decimation.278/post-695" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/what-i-personally-think-should-be-added-to-decimation.278/preview">What I personally think should be added to Decimation.</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/mamedteumessian.2496/" class="username " dir="auto" data-user-id="2496" data-xf-init="member-tooltip">MamedTeumessian</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/what-i-personally-think-should-be-added-to-decimation.278/post-695" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-05T00:44:28+0000" data-time="1520210668" data-date-string="Mar 5, 2018" data-time-string="12:44 AM" title="Mar 5, 2018 at 12:44 AM">Mar 5, 2018</time></a></li>
+						
+							<li><a href="../../../forums/suggestions-and-ideas.12/index.html">Suggestions and Ideas</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>78</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/what-i-personally-think-should-be-added-to-decimation.278/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-05T00:44:28+0000" data-time="1520210668" data-date-string="Mar 5, 2018" data-time-string="12:44 AM" title="Mar 5, 2018 at 12:44 AM">Mar 5, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/mamedteumessian.2496/" class="username " dir="auto" data-user-id="2496" data-xf-init="member-tooltip">MamedTeumessian</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-277" data-author="Wfox7">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/wfox7.2407/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2407" data-xf-init="member-tooltip" style="background-color: #33cccc; color: #0f3d3d">
+			<span class="avatar-u2407-s">W</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/trading-with-other-players-weapon-ideas.277/post-694" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/trading-with-other-players-weapon-ideas.277/preview">Trading with other players + weapon ideas</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/wfox7.2407/" class="username " dir="auto" data-user-id="2407" data-xf-init="member-tooltip">Wfox7</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/trading-with-other-players-weapon-ideas.277/post-694" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-03-04T13:25:19+0000" data-time="1520169919" data-date-string="Mar 4, 2018" data-time-string="1:25 PM" title="Mar 4, 2018 at 1:25 PM">Mar 4, 2018</time></a></li>
+						
+							<li><a href="../../../forums/suggestions-and-ideas.12/index.html">Suggestions and Ideas</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>1</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>85</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/trading-with-other-players-weapon-ideas.277/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-03-04T22:43:59+0000" data-time="1520203439" data-date-string="Mar 4, 2018" data-time-string="10:43 PM" title="Mar 4, 2018 at 10:43 PM">Mar 4, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/imkp-matthew.263/" class="username " dir="auto" data-user-id="263" data-xf-init="member-tooltip">iMkp - Matthew</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-276" data-author="ScottehBoeh">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="avatar avatar--s" data-user-id="1" data-xf-init="member-tooltip">
+			<img src="../../../data/avatars/s/0/1.jpg@1521983219" srcset="../../../data/avatars/m/0/1.jpg@1521983219 2x" alt="ScottehBoeh" class="avatar-u1-s" /> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+				<ul class="structItem-statuses">
+				
+					
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--sticky" aria-hidden="true" title="Sticky"></i>
+							<span class="u-srOnly">Sticky</span>
+						</li>
+					
+					
+						<li>
+							<i class="structItem-status structItem-status--locked" aria-hidden="true" title="Locked"></i>
+							<span class="u-srOnly">Locked</span>
+						</li>
+					
+					
+					
+				
+				</ul>
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/how-to-fix-game-crashing-when-joining-a-world-server.276/post-692" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/how-to-fix-game-crashing-when-joining-a-world-server.276/preview">How to Fix: Game Crashing when joining a World/Server</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip"><span class="username--staff username--moderator username--admin">ScottehBoeh</span></a></li>
+						<li class="structItem-startDate"><a href="../../../threads/how-to-fix-game-crashing-when-joining-a-world-server.276/post-692" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-02-28T12:33:27+0000" data-time="1519821207" data-date-string="Feb 28, 2018" data-time-string="12:33 PM" title="Feb 28, 2018 at 12:33 PM">Feb 28, 2018</time></a></li>
+						
+							<li><a href="../../../forums/fixes-tutorials.11/index.html">Fixes/Tutorials</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>140</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/how-to-fix-game-crashing-when-joining-a-world-server.276/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-02-28T12:33:27+0000" data-time="1519821207" data-date-string="Feb 28, 2018" data-time-string="12:33 PM" title="Feb 28, 2018 at 12:33 PM">Feb 28, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/scottehboeh.1/" class="username " dir="auto" data-user-id="1" data-xf-init="member-tooltip">ScottehBoeh</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-275" data-author="CurSe">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/curse.2469/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2469" data-xf-init="member-tooltip" style="background-color: #5c5cd6; color: #ebebfa">
+			<span class="avatar-u2469-s">C</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/crash.275/post-691" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/crash.275/preview">Crash?</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/curse.2469/" class="username " dir="auto" data-user-id="2469" data-xf-init="member-tooltip">CurSe</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/crash.275/post-691" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-02-26T21:53:32+0000" data-time="1519682012" data-date-string="Feb 26, 2018" data-time-string="9:53 PM" title="Feb 26, 2018 at 9:53 PM">Feb 26, 2018</time></a></li>
+						
+							<li><a href="../../../forums/bugs-glitches-reports.10/index.html">Bugs/Glitches Reports</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>91</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/crash.275/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-02-26T21:53:32+0000" data-time="1519682012" data-date-string="Feb 26, 2018" data-time-string="9:53 PM" title="Feb 26, 2018 at 9:53 PM">Feb 26, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/curse.2469/" class="username " dir="auto" data-user-id="2469" data-xf-init="member-tooltip">CurSe</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+				
+
+				
+
+	
+
+	<div class="structItem structItem--thread js-inlineModContainer js-threadListItem-274" data-author="creeperswag123">
+		<div class="structItem-cell structItem-cell--icon">
+			<div class="structItem-iconContainer">
+				<a href="http://www.mcdecimation.net/forums/members/creeperswag123.2459/" class="avatar avatar--s avatar--default avatar--default--dynamic" data-user-id="2459" data-xf-init="member-tooltip" style="background-color: #9966cc; color: #402060">
+			<span class="avatar-u2459-s">C</span> 
+		</a>
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--main" data-xf-init="touch-proxy">
+			
+
+			<div class="structItem-title">
+				
+				
+				<a href="../../../threads/new-update-27.274/post-690" class="" data-tp-primary="on" data-xf-init="preview-tooltip" data-preview-url="/forums/threads/new-update-27.274/preview">NEW UPDATE .27</a>
+			</div>
+
+			<div class="structItem-minor">
+				
+
+				
+					<ul class="structItem-parts">
+						<li><a href="http://www.mcdecimation.net/forums/members/creeperswag123.2459/" class="username " dir="auto" data-user-id="2459" data-xf-init="member-tooltip">creeperswag123</a></li>
+						<li class="structItem-startDate"><a href="../../../threads/new-update-27.274/post-690" rel="nofollow"><time  class="u-dt" dir="auto" datetime="2018-02-25T20:30:44+0000" data-time="1519590644" data-date-string="Feb 25, 2018" data-time-string="8:30 PM" title="Feb 25, 2018 at 8:30 PM">Feb 25, 2018</time></a></li>
+						
+							<li><a href="../../../forums/general-discussion.9/index.html">General Discussion</a></li>
+						
+					</ul>
+
+					
+				
+			</div>
+		</div>
+		<div class="structItem-cell structItem-cell--meta" title="First message likes: 0">
+			<dl class="pairs pairs--justified">
+				<dt>Replies</dt>
+				<dd>0</dd>
+			</dl>
+			<dl class="pairs pairs--justified structItem-minor">
+				<dt>Views</dt>
+				<dd>121</dd>
+			</dl>
+		</div>
+		<div class="structItem-cell structItem-cell--latest">
+			
+				<a href="../../../threads/new-update-27.274/latest" rel="nofollow"><time  class="structItem-latestDate u-dt" dir="auto" datetime="2018-02-25T20:30:44+0000" data-time="1519590644" data-date-string="Feb 25, 2018" data-time-string="8:30 PM" title="Feb 25, 2018 at 8:30 PM">Feb 25, 2018</time></a>
+				<div class="structItem-minor">
+					
+						<a href="http://www.mcdecimation.net/forums/members/creeperswag123.2459/" class="username " dir="auto" data-user-id="2459" data-xf-init="member-tooltip">creeperswag123</a>
+					
+				</div>
+			
+		</div>
+	</div>
+
+			
+		</div>
+	
+
+	</div>
+
+	
+		<div class="block-outer block-outer--after">
+			<div class="block-outer-main"><nav class="pageNavWrapper pageNavWrapper--mixed ">
+
+
+
+<div class="pageNav  ">
+	
+		<a href="../index.html@skip=1" class="pageNav-jump pageNav-jump--prev">Prev</a>
+	
+
+	<ul class="pageNav-main">
+		
+
+	
+		<li class="pageNav-page "><a href="../index.html@skip=1">1</a></li>
+	
+
+
+		
+
+		
+
+		
+
+		
+
+	
+		<li class="pageNav-page pageNav-page--current "><a href="page-2">2</a></li>
+	
+
+	</ul>
+
+	
+</div>
+
+<div class="pageNavSimple">
+	
+		<a href="../index.html@skip=1"
+			class="pageNavSimple-el pageNavSimple-el--first"
+			data-xf-init="tooltip" title="First">
+			<i aria-hidden="true"></i> <span class="u-srOnly">First</span>
+		</a>
+		<a href="../index.html@skip=1" class="pageNavSimple-el pageNavSimple-el--prev">
+			<i aria-hidden="true"></i> Prev
+		</a>
+	
+
+	<a class="pageNavSimple-el pageNavSimple-el--current"
+		data-xf-init="tooltip" title="Go to page"
+		data-xf-click="menu" role="button" tabindex="0" aria-expanded="false" aria-haspopup="true">
+		2 of 2
+	</a>
+	
+
+	<div class="menu menu--pageJump" data-menu="menu" aria-hidden="true">
+		<div class="menu-content">
+			<h4 class="menu-header">Go to page</h4>
+			<div class="menu-row" data-xf-init="page-jump" data-page-url="/forums/whats-new/posts/3993/page-%page%">
+				<div class="inputGroup inputGroup--numbers">
+					<div class="inputGroup inputGroup--numbers inputNumber" data-xf-init="number-box"><input type="number" pattern="\d*" class="input input--number js-numberBoxTextInput input input--numberNarrow js-pageJumpPage" value="2"  min="1" max="2" step="1" required="required" data-menu-autofocus="true" /></div>
+					<span class="inputGroup-text"><button type="button" class="js-pageJumpGo button"><span class="button-text">Go</span></button></span>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	
+</div>
+
+</nav>
+
+
+
+</div>
+			
+		</div>
+	
+</div>
+
+
+
+
+
+
+
+
+
+</div>
+				
+			</div>
+
+			
+		</div>
+
+		
+		
+	
+		<ul class="p-breadcrumbs p-breadcrumbs--bottom"
+			itemscope itemtype="https://schema.org/BreadcrumbList">
+		
+
+			
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../../index.html" itemprop="item">
+			<span itemprop="name">Home</span>
+		</a>
+	</li>
+
+			
+
+			
+				
+	<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+		<a href="../../../index.html" itemprop="item">
+			<span itemprop="name">Forums</span>
+		</a>
+	</li>
+
+			
+			
+
+		
+		</ul>
+	
+
+		
+	</div>
+</div>
+
+<footer class="p-footer" id="footer">
+	<div class="p-footer-inner">
+
+		<div class="p-footer-row">
+			
+			<div class="p-footer-row-opposite">
+				<ul class="p-footer-linkList">
+					
+						
+							<li><a href="../../../misc/contact" data-xf-click="overlay">Contact us</a></li>
+						
+					
+
+					
+						<li><a href="../../../../download.html">Download the Mod</a></li>
+					
+
+					
+						<li><a href="http://discord.gg/Decimation">Discord</a></li>
+					
+
+					
+						<li><a href="http://mcdecimation.buycraft.net/category/1132413">Get a Cape!</a></li>
+					
+
+					
+						<li><a href="../../../help/terms/index.html">Terms and rules</a></li>
+					
+
+					
+
+					
+						<li><a href="../../../help/index.html">Help</a></li>
+					
+
+					
+						<li><a href="../../../../index.html">Home</a></li>
+					
+
+					<li><a href="../../../forums/-/index.rss" target="_blank" class="p-footer-rssLink" title="RSS"><span aria-hidden="true"><i class="fa fa-rss"></i></span></a></li>
+				</ul>
+			</div>
+		</div>
+
+		
+			<div class="p-footer-copyright">
+			
+				<a href="https://xenforo.com" class="u-concealed" dir="ltr" target="_blank">Forum software by XenForo&trade; <span class="copyright">&copy; 2010-2018 XenForo Ltd.</span></a>
+				
+<div class="discord-copyright">
+	<a href="https://xenforo.com/community/resources/6058/"
+		target="_blank">Discord Integration</a> &copy; Jason Axelrod of
+	<a href="https://8wayrun.com/" target="_blank">8WAYRUN</a>
+</div>
+			
+			</div>
+		
+
+		
+	</div>
+</footer>
+
+</div> <!-- closing p-pageWrapper -->
+
+<div class="u-bottomFixer js-bottomFixTarget">
+	
+</div>
+
+
+	<div class="u-scrollButtons js-scrollButtons" data-trigger-type="up">
+		<a href="page-2#top" class="button--scroll button" data-xf-click="scroll-to"><span class="button-text"><i class="fa fa-arrow-up"></i></span></a>
+		
+	</div>
+
+
+
+	<script src="../../../js/vendor/jquery/jquery-3.2.1.min.js@_v=e6e8a019"></script>
+	<script src="../../../js/vendor/vendor-compiled.js@_v=e6e8a019"></script>
+	<script src="../../../js/xf/core-compiled.js@_v=e6e8a019"></script>
+	
+	<script>
+		jQuery.extend(true, XF.config, {
+			userId: 0,
+			url: {
+				fullBase: 'http://www.mcdecimation.net/forums/',
+				basePath: '/forums/',
+				css: '/forums/css.php?css=__SENTINEL__&s=2&l=1&d=1521142307',
+				keepAlive: '/forums/login/keep-alive'
+			},
+			cookie: {
+				path: '/',
+				domain: '',
+				prefix: 'xf_'
+			},
+			csrf: '1522142763,1a4082940ca0cd4a219802fa81cceb1e',
+			js: {},
+			css: {"public:structured_list.less":true,"public:extra.less":true},
+			time: {
+				now: 1522142763,
+				today: 1522105200,
+				todayDow: 2
+			},
+			borderSizeFeature: '3px',
+			enableRtnProtect: true,
+			enableFormSubmitSticky: true,
+			uploadMaxFilesize: 67108864,
+			visitorCounts: {
+				conversations_unread: '0',
+				alerts_unread: '0',
+				total_unread: '0',
+				title_count: true,
+				icon_indicator: true
+			},
+			jsState: {}
+		});
+
+		jQuery.extend(XF.phrases, {
+			date_x_at_time_y: "{date} at {time}",
+			day_x_at_time_y:  "{day} at {time}",
+			yesterday_at_x:   "Yesterday at {time}",
+			x_minutes_ago:    "{minutes} minutes ago",
+			one_minute_ago:   "1 minute ago",
+			a_moment_ago:     "A moment ago",
+			today_at_x:       "Today at {time}",
+			in_a_moment:      "In a moment",
+			in_a_minute:      "In a minute",
+			in_x_minutes:     "In {minutes} minutes",
+			later_today_at_x: "Later today at {time}",
+			tomorrow_at_x:    "Tomorrow at {time}",
+
+			day0: "Sunday",
+			day1: "Monday",
+			day2: "Tuesday",
+			day3: "Wednesday",
+			day4: "Thursday",
+			day5: "Friday",
+			day6: "Saturday",
+
+			dayShort0: "Sun",
+			dayShort1: "Mon",
+			dayShort2: "Tue",
+			dayShort3: "Wed",
+			dayShort4: "Thu",
+			dayShort5: "Fri",
+			dayShort6: "Sat",
+
+			month0: "January",
+			month1: "February",
+			month2: "March",
+			month3: "April",
+			month4: "May",
+			month5: "June",
+			month6: "July",
+			month7: "August",
+			month8: "September",
+			month9: "October",
+			month10: "November",
+			month11: "December",
+
+			active_user_changed_reload_page: "The active user has changed. Reload the page for the latest version.",
+			server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+			oops_we_ran_into_some_problems: "Oops! We ran into some problems.",
+			oops_we_ran_into_some_problems_more_details_console: "Oops! We ran into some problems. Please try again later. More error details may be in the browser console.",
+			file_too_large_to_upload: "The file is too large to be uploaded.",
+			files_being_uploaded_are_you_sure: "Files are still being uploaded. Are you sure you want to submit this form?",
+			close: "Close",
+
+			showing_x_of_y_items: "Showing {count} of {total} items",
+			showing_all_items: "Showing all items",
+			no_items_to_display: "No items to display"
+		});
+	</script>
+
+	<form style="display:none" hidden="hidden">
+		<input type="text" name="_xfClientLoadTime" value="" id="_xfClientLoadTime" tabindex="-1" />
+	</form>
+
+	
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+

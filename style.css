@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'minecraftfont';
+    src: url('website-assets/font/minecraftfont.eot');
+    src: local('minecraftfont'), url('website-assets/font/minecraftfont.woff') format('woff'), url('website-assets/font/minecraftfont.ttf') format('truetype');
+}
+
+body {
+	background-color: #000000;
+    background-image: url("website-assets/img/background_image.png");
+    font-family: 'minecraftfont' !important;
+}
+
+h1 {
+    align-content: center;
+    text-align: center;
+    color: #dbd197;
+}
+
+h2 {
+    align-content: center;
+    text-align: center;
+    color: #dbd197;
+    font-size: 90%;
+}
+
+button {
+
+    font-family: 'minecraftfont' !important;
+
+    background-image: url("website-assets/img/btn_default.png");
+    background-size: 100% 100%;
+    border: none;
+    color: #dbd197;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display:inline-block;
+}
+
+button:hover{
+
+    filter: brightness(1.5);
+
+}
+
+#fancyButton{
+
+    background-image: url("website-assets/img/btn_fancy.png");
+
+}
+
+a {
+
+    color: #6699ff;
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    filter: brightness(1.5);
+    text-decoration: none;
+
+}
+
+iframe {
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+	width: 100%;
+}
