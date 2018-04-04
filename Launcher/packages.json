@@ -5,7 +5,7 @@
             "name": "Magical Legend",
             "title": "Magical Legend",
             "version": "20100223",
-            "location": "lightpack.json",
+            "location": "_upload\magical-legend.json",
             "priority": 1
         }
     ]
