@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Armadon Classic - ECPv5.7.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Armadon Classic
+X-ORIGINAL-URL:https://classic.armadon-theme.com
+X-WR-CALDESC:Events for Armadon Classic
+BEGIN:VTIMEZONE
+TZID:Europe/Brussels
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20220327T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20221030T010000
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:20230326T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:20231029T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Brussels:20220401T080000
+DTEND;TZID=Europe/Brussels:20220401T170000
+DTSTAMP:20210609T170126
+CREATED:20210409T152302Z
+LAST-MODIFIED:20210419T152132Z
+UID:3563-1648800000-1648832400@classic.armadon-theme.com
+SUMMARY:Gaming Pro League
+DESCRIPTION:Phasellus volutpat\, metus eget egestas mollis\, lacus lacus blandit dui\, id egestas quam mauris ut lacus. Nam pretium turpis et arcu. Donec venenatis vulputate lorem. Vestibulum purus quam\, scelerisque ut\, mollis sed\, nonummy id\, metus. Aenean commodo ligula eget dolor. \nDonec sodales sagittis magna. Nunc nonummy metus. Etiam iaculis nunc ac metus. Praesent porttitor\, nulla vitae posuere iaculis\, arcu nisl dignissim dolor\, a pretium mi sem ut ipsum. Vestibulum suscipit nulla quis orci. \nEtiam imperdiet imperdiet orci. Ut id nisl quis enim dignissim sagittis. Pellentesque ut neque. Nunc nulla. Aliquam lorem ante\, dapibus in\, viverra quis\, feugiat a\, tellus.
+URL:https://classic.armadon-theme.com/event/gaming-pro-league/
+LOCATION:Fusion Arena\, 3300 S 7th St STE 1\, Philadelphia\, PA\, 19148\, United States
+CATEGORIES:Championship
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2020/07/florian-olivo-Mf23RF8xArY-unsplash.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Brussels:20220616T080000
+DTEND;TZID=Europe/Brussels:20220616T170000
+DTSTAMP:20210609T170126
+CREATED:20210413T142315Z
+LAST-MODIFIED:20210419T152300Z
+UID:3789-1655366400-1655398800@classic.armadon-theme.com
+SUMMARY:PinkyBone's interview
+DESCRIPTION:Curabitur ullamcorper ultricies nisi. Donec sodales sagittis magna. Curabitur suscipit suscipit tellus. Vivamus quis mi. \nCras sagittis. Aenean vulputate eleifend tellus. Suspendisse feugiat. Ut id nisl quis enim dignissim sagittis. \nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam vitae tortor. Aenean vulputate eleifend tellus. Fusce fermentum odio nec arcu.
+URL:https://classic.armadon-theme.com/event/pinkybones-interview/
+LOCATION:The Esports Arena\, 120 W 5th St\, Santa Ana\, CA\, 92701\, United States
+CATEGORIES:Draft
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2020/07/fazly-shah-yt4WtR15mlI-unsplash.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Brussels:20220625T080000
+DTEND;TZID=Europe/Brussels:20220629T170000
+DTSTAMP:20210609T170126
+CREATED:20210413T142038Z
+LAST-MODIFIED:20210419T152248Z
+UID:3787-1656144000-1656522000@classic.armadon-theme.com
+SUMMARY:Sweet Gaming Season #1
+DESCRIPTION:Ut varius tincidunt libero. Etiam ut purus mattis mauris sodales aliquam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam\, nisi quis porttitor congue\, elit erat euismod orci\, ac placerat dolor lectus quis orci. Quisque libero metus\, condimentum nec\, tempor a\, commodo mollis\, magna. \nCum sociis natoque penatibus et magnis dis parturient montes\, nascetur ridiculus mus. Sed augue ipsum\, egestas nec\, vestibulum et\, malesuada adipiscing\, dui. Etiam sollicitudin\, ipsum eu pulvinar rutrum\, tellus ipsum laoreet sapien\, quis venenatis ante odio sit amet eros. Etiam rhoncus. \nPhasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Curabitur nisi. Donec orci lectus\, aliquam ut\, faucibus non\, euismod id\, nulla.
+URL:https://classic.armadon-theme.com/event/sweet-gaming-season-1/
+LOCATION:Chongqing Zhongxian E-Sports Stadium\, Aoti 2nd Branch Rd\, Chongqing\, Jiulongpo District\, China
+CATEGORIES:Championship,Real-time strategy
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2020/07/photo-of-person-typing-on-computer-keyboard-735911.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Brussels:20220911T080000
+DTEND;TZID=Europe/Brussels:20220911T170000
+DTSTAMP:20210609T170126
+CREATED:20210413T142700Z
+LAST-MODIFIED:20210419T152246Z
+UID:3793-1662883200-1662915600@classic.armadon-theme.com
+SUMMARY:Pro Circuit Tour
+DESCRIPTION:In ut quam vitae odio lacinia tincidunt. Nullam tincidunt adipiscing enim. Proin magna. Proin sapien ipsum\, porta a\, auctor quis\, euismod ut\, mi. In hac habitasse platea dictumst. \nFusce ac felis sit amet ligula pharetra condimentum. Fusce commodo aliquam arcu. Etiam vitae tortor. Vestibulum volutpat pretium libero. Nunc nec neque. \nPraesent egestas neque eu enim. Etiam rhoncus. Phasellus dolor. Lorem ipsum dolor sit amet\, consectetuer adipiscing elit. Etiam vitae tortor.
+URL:https://classic.armadon-theme.com/event/pro-circuit-tour/
+LOCATION:Fusion Arena\, 3300 S 7th St STE 1\, Philadelphia\, PA\, 19148\, United States
+CATEGORIES:Stream,Tournaments
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2021/04/jr-korpa-9XngoIpxcEo-unsplash.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/Brussels:20220923T080000
+DTEND;TZID=Europe/Brussels:20220924T170000
+DTSTAMP:20210609T170126
+CREATED:20210413T142507Z
+LAST-MODIFIED:20210419T152221Z
+UID:3791-1663920000-1664038800@classic.armadon-theme.com
+SUMMARY:2022 Grandmaster Clash
+DESCRIPTION:Ut leo. Nam commodo suscipit quam. Pellentesque posuere. Donec id justo. \nDuis lobortis massa imperdiet quam. Sed mollis\, eros et ultrices tempus\, mauris ipsum aliquam libero\, non adipiscing dolor urna a orci. Donec mi odio\, faucibus at\, scelerisque quis\, convallis in\, nisi. Pellentesque dapibus hendrerit tortor. \nAenean posuere\, tortor sed cursus feugiat\, nunc augue blandit nunc\, eu sollicitudin urna dolor sagittis lacus. Curabitur at lacus ac velit ornare lobortis. Vivamus elementum semper nisi. Nunc sed turpis. \nNunc nulla. Fusce fermentum odio nec arcu. Cras ultricies mi eu turpis hendrerit fringilla. Cras varius.
+URL:https://classic.armadon-theme.com/event/2022-grandmaster-clash/
+LOCATION:HyperX Esports Arena Las Vegas\, Luxor Hotel & Casino\, Las Vegas\, NV\, 89119\, United States
+CATEGORIES:Championship,Sports
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2021/04/stem-list-mU-C52Ieoeo-unsplash.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221201
+DTEND;VALUE=DATE:20221204
+DTSTAMP:20210609T170126
+CREATED:20210413T142937Z
+LAST-MODIFIED:20210419T152213Z
+UID:3795-1669852800-1670111999@classic.armadon-theme.com
+SUMMARY:Battle Royal Premiere Grand Finals
+DESCRIPTION:Fusce neque. Morbi vestibulum volutpat enim. Curabitur at lacus ac velit ornare lobortis. Morbi ac felis. Curabitur turpis. \nPhasellus a est. Praesent adipiscing. Praesent egestas neque eu enim. Maecenas egestas arcu quis ligula mattis placerat. Pellentesque dapibus hendrerit tortor. \nEtiam feugiat lorem non metus. Sed a libero. Nam at tortor in tellus interdum sagittis. Suspendisse enim turpis\, dictum sed\, iaculis a\, condimentum nec\, nisi. Phasellus gravida semper nisi.
+URL:https://classic.armadon-theme.com/event/battle-royal-premiere-grand-finals/
+LOCATION:Blizzard Arena\, 3000 W Alameda Ave\, Burbank\, CA\, 91505\, United States
+CATEGORIES:Championship,Fighting games
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2021/04/pexels-akwice-3094799-copie.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230617
+DTEND;VALUE=DATE:20230618
+DTSTAMP:20210609T170126
+CREATED:20210413T141618Z
+LAST-MODIFIED:20210419T152157Z
+UID:3785-1686960000-1687046399@classic.armadon-theme.com
+SUMMARY:Stream Tournament Upper Division
+DESCRIPTION:Fusce convallis metus id felis luctus adipiscing. Phasellus magna. Aenean posuere\, tortor sed cursus feugiat\, nunc augue blandit nunc\, eu sollicitudin urna dolor sagittis lacus. Donec posuere vulputate arcu. \nDuis leo. Fusce vulputate eleifend sapien.. Morbi mattis ullamcorper velit. \nPellentesque dapibus hendrerit tortor. In ut quam vitae odio lacinia tincidunt. Praesent metus tellus\, elementum eu\, semper a\, adipiscing nec\, purus. Nam at tortor in tellus interdum sagittis.
+URL:https://classic.armadon-theme.com/event/stream-tournament-upper-division/
+LOCATION:Blizzard Arena\, 3000 W Alameda Ave\, Burbank\, CA\, 91505\, United States
+CATEGORIES:Stream
+ATTACH;FMTTYPE=image/jpeg:https://classic.armadon-theme.com/wp-content/uploads/sites/11/2020/07/sean-do-Z09mEQdm3u4-unsplash.jpg
+END:VEVENT
+END:VCALENDAR
